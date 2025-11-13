@@ -1,0 +1,1641 @@
+OWNER S MANUAL ii CUSTOMER ASSISTANCE In our constant endeavour to provide assistance and complete service backup, TATA MOTORS has established an all India customer assistance centre.
+In case you have a query regarding any aspect of your vehicle, our Customer Assistance Centre will be glad to assist you on our Toll Free no.
+1800 209 7979 You can also approach nearest TATA MOTORS dealer.
+A separate Dealer network address booklet is provided with the Owner s manual.
+TATA MOTORS 24X7 Roadside Assistance Program offers technical help in the event of a breakdown.
+For additional information, refer to "24X7 Roadside Assistance" section in the Owner s manual.
+We congratulate you on the purchase of your new vehicle and are privileged to have you as our valued customer.
+d iv iii We urge you to read this Owner's Manual carefully and familiarize yourself with the equipment desc riptions and operating instructions before driving.
+Always carry out prescribed service / maintenance work as well as any required repairs at an authorized TATA MOTORS Dealers o r Authorized Service Centre s (TASCs).
+Use only genuine parts for continued reliability, safety and performance of your vehicle.
+You are welcome to contact our dealer or Customer Assistance toll free no.
+(1800 209 7979 ) in case of any query or support required.
+We wish you a safe and pleasant driving experience.
+Bombay House, 24, Homi Modi Street, Hutatma Chowk, Fort, Mumbai   400001 IMPORTANT INFORMATION   Before driving, read this Owner s manual carefully and familiarize yourself with your vehicle.
+For your own safety and a longer vehicle life, follow the instructions,  Warnings  and  Notes  in this manual.
+Ignoring them could result in damage to the vehicle or personal injury to you or others.
+The Owner s manual and other booklets are important documents and should always be kept in the vehicle.
+If you sell the vehicle, always pass on the documents to the new owner.
+This Owner's Manual describes all variants of the model and all standard/optional equipment of your vehicle available at the time of printing.
+Please note that your vehicle may not be equipped with all features described.
+TATA MOTORS Limited reserves the right to introduce changes in the design, equipment and tech nical features without any obligation to install them on the vehicles previously sold.
+The equipment in your vehicle may th erefore differ from that shown in the descriptions and illustrations.
+Do not carry out any modification including fitment of non-genuine accessories on your vehicle.
+Safety, handling, performance and durability, may otherwise be adversely affected and may violate government regulations.
+TATA MOTORS Limited accepts no liability for damage resulting from the modifications or use of non-genuine accessories.
+The information in this manual shall not be copied, translated or otherwise reproduced, in whole or in part, without written permission from TATA MOTORS.
+v   Copyright 2019 TATA MOTORS viii CONTENTS CONTENTS x ix xii CONTENTS 6 Starting & Driving 6 Starting & Driving 7 Emergency & Break- down Assistance Pre-Driving Checks 95 Driving (MT) 113 Emergency Equipment 133 Driving Tips 96 Starting and stopping (PEPS) 115 Seat Adjustments 99 Hazard Warning Switch 135 PEPS   Wearable key 117 In Case of Flat Tyre 135 Rear View Mirrors 101 Manual Transmission (MT) 120 Jump Lead Starting 138 xi Steering Wheel Adjustments 104 Drive Mode 123 Towing 140 Steering lock cum ignition switch 104 Parking Brake 123 Fuses 142 xiii CONTENTS xvi xv xviii CONTENTS CONTENTS xvii xx CONTENTS xix CONTENTS xx CONTENTS ii xxii SAFETY 1 Important Information In this Owner's Manual, you will find the text under the heading  WARNING  and  NOTE  which highlights important information.
+NOTE Indicates additional information that will assist you in gaining the optimum benefit and care for your vehicle.
+WARNING Indicates procedures or information that must be followed precisely in order to avoid the possibility of severe personal injury and serious damage to the vehicle.
+Safe Driving Safety consciousness not only ensures your safety and the safety of other road users, but it also helps to reduce the wear and tear on your vehicle.
+Safe driving depends on    How quickly you make decisions to avoid an accident.
+How well familiar you are with your vehicle controls and its capabilities.
+NOTE Fatigue is a result of physical or mental exertion that impairs judgment.
+Driver fatigue may be due to inadequate sleep, extended work hours, strenuous work or nonwork activities or combination of other factors.
+Safety Tips   Always take into account the road conditions, weather conditions, vehicle speed in order to prevent accidents.
+Turn   ON  the side indicators at least 30 meters before taking a turn or changing the lane.
+When overtaking other vehicles, watch out for the oncoming vehicle.
+Never drive under the influence of alcohol or drugs.
+If your vehicle is equipped with infotainment/navigation system, set and make changes to your travel route only when the vehicle is parked.
+Program radio presets with the vehicle parked, and use your programmed SAFETY 2 presets to make radio use quicker and simpler.
+Driving through water Do not drive through flooded areas.
+Judge the depth of water before driving through it.
+Otherwise, water may enter the vehicle interior or the engine compartment.
+If at all the situation demands that you have to drive through water then;   Keep engine in higher RPM and crawl the vehicle in low gear.
+Driving through flowing water could cause the vehicle to about trying to drive through flowing water.
+Lightly apply the brake pedal to dry the liners until the brakes work normally once you are out of water.
+WARNING Do not attempt to start the engine if vehicle gets flooded due to water.
+Contact a nearest TATA MOTORS Authorised Service Centre Driving on a rainy day   Check wiper blades, lights and brakes for proper functioning and condition.
+Check the tyre treads depth, the condition of the tread and tyre.
+It may cause loss of control and lead to a skid.
+For slowing down, shift to lower gears and brake gently.
+Driving on wet roads On wet road or during light showers,  Aquaplaning  can occur.
+Aquaplaning  is the loss of direct contact between the road surface and the vehicle s tires due to a water film forming between them.
+Steering or braking the vehicle can be very difficult, and loss of control can occur.
+There is no hard and fast rule about aquaplaning.
+The best advice is to slow down when the road is wet.
+NOTE If you have driven for a long time in heavy rain without braking, there may be a delayed reaction from the brakes when braking for the first time.
+You have to depress the brake pedal more firmly.
+Maintain a greater distance from the vehicle in front.
+SAFETY 3 Night driving   Ensure that all lights are working and windshield, window glasses are clean.
+Drive more slowly at night than in the daytime, as the visual range is restricted at night.
+Maintain a speed such that you can stop within illuminated distance of head lamps.
+It may dazzle the driver of the oncoming vehicle, thus causing an accident.
+Use head lamp main/dip beam to alert other road users on turns/ cross roads etc.
+Driving on gradients When climbing gradient, the vehicle may begin to slow down and show a lack of power.
+If this happens, shift to a lower gear and apply power smoothly so that there is no loss of traction.
+When driving down a hill, the engine braking should be used by shifting into a lower gear.
+Do not drive in neutral gear or switch off the engine.
+WARNING On long and steep gradients you must reduce the load on the brakes by shifting early to a lower gear.
+This allows you to take advantage of the engine braking effect and helps avoid overheating of service brakes resulting in reduced braking efficiency.
+Driving on highway Stopping distance progressively increases with vehicle speed.
+Maintain a sufficient distance between your vehicle and the vehicle ahead.
+For long distance driving, perform safety checks before starting a trip and take rest at certain intervals to prevent fatigue.
+Seat Belts This section of user manual describes your vehicle seat belt, airbag and Child restraints system.
+Please read and follow all these instructions carefully to minimise risk of severe injury or death.
+Seat belts are the primary restraints system in the vehicle.
+All occupants, including the driver, should always wear their seat belts to minimize the risk of injury.
+Make sure that your seat is adjusted to a good driving position and the back of SAFETY 4 the seat is upright.
+Buckling the Shoulder Seatbelt   Grasp the tongue and slowly pull out the seat belt over the shoulder and across the chest.
+When the seat belt is long enough to fit, insert the tongue into the lock buckle until you hear a  CLICK   which indicates that the seat belt is securely locked.
+Position the lap portion of seat belt across your thighs, below your abdomen.
+To remove slack, pull up a bit on the shoulder seat belt.
+To loosen the lap portion seat belt if it is too tight, tilt the tongue and pull on the lap seat belt.
+A snug seat belt reduces the risk of sliding under the seat belt in a collision.
+Ensure that the seat belt running over the body (shoulder segment and lap segment) does not have any twist.
+Twisted seat belt may not offer effective protection when required.
+Releasing the seat belt To release the seat belt, push the red button on the lock buckle.
+The seat belt will automatically retract to its stowed position.
+If necessary, slide the tongue down the webbing to allow the seat belt to retract fully.
+Fixed rear centre lap seat belt When buckling, make sure you hear a click confirming that the tab is latched into the seat belt lock.
+To tighten it, pull the loose end through the buckle until the seat belt is comfortably adjusted around the hips.
+SAFETY 5 Seat belt height adjustments (If applicable) their comfort, as may be applicable.
+Be careful not to damage or tamper the seat belt webbing or hardware.
+Inspect the seat belt system periodically, checking for cuts, frays, or loose parts.
+A frayed or torn seat belt could rip apart in a collision and leave you with no protection.
+If the seat belt webbing or hardware is damaged, get it replaced immediately at TATA Motors Authorized service centre.
+Do not insert any items such as coins, clips, etc.
+into the seat belt buckles, and be careful not to spill liquids into these parts.
+If foreign materials get into a seat belt buckle, the seat belt will not work properly.
+Do not wear seat belts over hard, sharp or fragile items in clothing, such as pens, keys, spectacles etc.
+Do not use any accessories on seat belts or modify in any way the WARNING Each seat belt assembly must only be used by one occupant.
+It is not recommended to put a seat belt around a child, being carried on an occupant's lap.
+SAFETY 1 If the height adjustment is provided in the seat belt, occupant can adjust it to SAFETY seat belt system.
+Devices claiming to improve occupant comfort or reposition the seat belt can reduce the protection provided by the seat belt and increase the chance of serious injury in a collision.
+Seat Belts with Pre   tensioner (if In the event of a collision, as may be Equipped) necessary, pre-tensioner tightens the You can use the pre-tensioner seat belts seat belt so that it fits the occupant s in the same manner as ordinary seat body more snugly.
+activates, there could be some noise and release of smoke.
+This is normal The seat belt pre-tensioner system works and there are no health hazards or fire in conjunction with risk.
+woman equipped) The seat belt warning lamps for Driver If the vehicle has been involved in a and Passenger reminds to fasten the collision, get it ins pected immediately at seat belt.
+authorised TATA MOTORS SERVICE If the driver and passenger does not Center.
+fasten seat belt, seat belt reminder SAFETY 1 SAFETY WARNING Pregnant woman must wear a correctly positioned seat belt.
+It is safer for mother as well as unborn child.
+7 Seat Belt with Load Limiter (if lamp will blink and a buzzer will Equipped) sound for pre-defined duration until the driver s seat belt is buckled.
+WARNING The pre-tensioner seat belt assembly mechanisms become hot during activation.
+Do not touch the pre-tensioner seat belt assemblies for several minutes after they have been activated.
+Pregnant woman should wear the lap part of the seat belt across the thighs and as snug across the hips as possible.
+Keep the seat belt low so that it does not come across the abdomen.
+That way the strong bones of the hips will take the force if there is a collision.
+You can use the load limiter seat belts in Above warning will appear until seat the same manner as ordinary seat belts.
+The seat belt load limiter system works in conjunction with the SUPPLEMENTARY RESTR AINTS SYSTEM (SRS-Air Bags).
+8 In the event of a collision, as may be necessary, load limiter reduces the load on the rib cage region of the occupant.
+If the vehicle has been involved in a collision, get it inspected immediately at Authorised TATA MOTORS SERVICE Cent er.
+Use of seat belts for pregnant Seat belt Warning Lamp (If SAFETY 9 1 Child Restraint System (CRS) TATA MOTORS strongly recommends the use of Child Restraint Systems (CRS) for all children up to age of 12 years and to be placed at recommended positions only.
+Children travelling without recommended CRS and seated at other positions may face serious injuries in case of a collision.
+CRS can be installed in the vehicle using seat belts and/or ISOFIX only (if equipped) or ISOFIX with Top Tether (if equipped).
+The harness system of CRS holds the child in place, and in a collision, acts to keep the child positioned in the seat and reduce the risk if injuries.
+All children below age of one year must always ride in a rear-facing infant CRS.
+SAFETY Keep children in a forward- facing CRS with a harness until they reach the size or weight limit allowed by your CRS manufacturer.
+Once your child outgrows the forwardfacing CRS, your child is ready for a booster seat.
+Selection and installation of CRS  Always select the CRS that complies with SAFETY 2 latest safety standards (AIS072 / ECE R44).
+The CRS are classified according to the child's size, height and weight.
+For installation, please refer CRS manufacturer   s instruction manual.
+Ensure that the child fits properly in the CRS and it is securely installed in Group Mass Group Age Group Front Passenger Rear Outboard LH Rear Outboard RH Rear Center 0 Up to 10 kg Up to 9 months X U U X SAFETY 4 0  Up to 13 kg Up to 24 months X U U X I to 18 kg months to 48 months X U U X II to 25 kg Approx.
+3 to 7 years X U U X III to 36 kg Approx.
+6 to 12 years X U U X WARNING If a child is seated in the front seat it may cause serious injury or even death during any collision.
+WARNING SAFETY Recommended CRS position as per the vehicle matrix 5 The suitability of seat position for carriage of children and recommended category of CRS is shown in the table below as per the child group.
+X - Seat Position not suitable for children in this age group.
+U - Suitable for  universal  category restraints approved for use in this age group.
+Universal is a category in the AIS072 / ECE R44 norm.
+If your vehicle is equipped with a front passenger air bag (PAB) and do not have PAB deactivation switch, do not install a rear-facing CRS in the front passenger seat.
+If the PAB inflates, a child in a rear facing CRS could be seriously injured or killed.
+If you install a CRS in the rear seat, slide the front seat far enough forward so that the child s feet do not touch the front seatback.
+This will help avoid injury to the child in the event of a collision.
+SAFETY 6 NOTE Children could be endangered in a collision if their CRS are not properly secured in the vehicle.
+Be sure to secure the child in the restraint system according to the manufacturer s instructions.
+7 NOTE Do not install a booster seat or a booster cushion with only the lap WARNING ther strap of the seat belt.
+Do not install a booster seat or a booster cushion with a seat belt that is slack or twisted.
+SAFETY Do not use an infant carrier or a child safety seat that "hooks  over a seatback, it will not provide adequate protection in a collision.
+Do not put the safety seat belt under your child s arm or behind its back.
+Do not use pillows, books or towels to boost your child s height.
+NOTE A CRS in a closed vehicle can become very hot.
+To prevent burns, check the seating surface and buckles before placing your child in CRS.
+Make sure that your children sit in an upright position.
+WARNING SAFETY Do not leave unattended children in your vehicle.
+After a collision, we recommend to get s belts, seats, ISOFIX and topanchorages may be applicable) investigated at TA MOTORS Authorised service centre.
+Do not allow children to stand up or kneel on either the rear or the front seats.
+An unrestrained child could suffer serious or fatal injuries during a collision.
+Do not leave any toys or other objects loose in the CRS or on the seat while the vehicle is in motion.
+9 8 SAFETY SAFET Y 11 Each CRS should be used for one child only.
+10 When PAB deactivation switch (if provided) is turned  OFF , make sure  PAB  operational status lamp illuminates with ignition   ON , indicating that the passenger airbag is NOT operational.
+If the airbag SRS warning indicator in the instrument cluster illuminates continuously, it means that Remove the CRS from front passenger seat and contact your TATA MOTORS authorised service center.
+Supplementary Restraint System (SRS) (air bags) (if equipped) The airbag  SRS  system comprises of the following components depending upon the provided safety features in vehicle.
+Seat belt Pre-tensioners   Seat belt with load limiters   Driver Airbag   Front Passenger Airbag   Knee Air Bag   Side Airbags   Curtain Air Bag   Airbag  SRS  ECU (Electronic Control Unit)   Collision Sensors   SRS wiring harness   SRS Warning lamp   Front Passenger airbag (PAB) Deactivation switch The System is active when ignition switch is in the   ON  position or the ignition mode is   ON .
+Air bags are designed to inflate in collisions when required.
+In the event of a collision, the collision sensors 13 will detect signals, and if the Airbag ECU judges that the signals represent a severe collision, will trigger the airbags.
+The inflated air bags provide a cushion to the occupants.
+The air bag inflates and deflates so quickly that you may not even realize that it has activated.
+The air bag will neither hinder SAFETY your view nor make it harder to exit the vehicle.
+Airbag inflation is virtually instantaneous and occurs with considerable force, accompanied by loud noise and smoke, which is normal.
+The inflated airbag, together with seat belts, limit the movement of an occupant, thereby reducing the risk of injury.
+When an airbag inflates, you may see some smoke-like particles.
+The particles are a normal by-product of the process that generates the non-toxic gas used for airbag inflation.
+These airborne particles may irritate the skin, eyes, nose, or throat.
+If you have skin or eye irritation, rinse the area with water.
+For nose or throat irritation, move to fresh air.
+Also sometimes the smoke can SAFETY 14 cause breathing problems , in such cases get fresh air promptly.
+After inflation, airbag provides a gradual cushioning effect for the occupant thereafter deflates.
+It is not advisable to drive your vehicle after the airbags have been deployed.
+If you are involved in another collision, the airbags will not be in place to protect you.
+The driver airbag is mounted in the centre of the steering wheel.
+The front passenger airbag is located inside the dashboard in front of the passenger seat.
+The vehicle fitted with the airbags have suitable indications on steering wheel and on dash board.
+The word  SRS  is embossed on the airbag covers.
+Do not touch the air bag storage area s internal components immediately after an air bag has inflated.
+The parts that come into contact with an inflating air bag may be very hot.
+Always wash exposed skin areas thoroughly with lukewarm water and mild soap.
+NOTE Open your windows and doors as soon as possible after collision to reduce prolonged exposure to the smoke and powder released by the inflating air bag.
+15 Side airbags are mounted in front row seats for outboard occupants only.
+SAFETY 16 SAFETY Passenger deactivation switch Curtain airbags are mounted above the doors along the is turned to  ON  position.
+This will ensure that the roof on both sides.
+passenger airbag is operational in the event of a collision.
+Knee airbags are mounted in the dashboard around the knee region of the front row occupants.
+airbag (PAB) deactivation switch and PAB operational status indicator (If equipped) If it becomes necessary to fit a CRS on the front passenger seat, the passenger airbag must be de-activated.
+This switch can be accessed once front passenger side door is opened.
+On the contrary, when an adult is seated in the front passenger seat, ensure that PAB This switch is operated using the ignition / remote key.
+SAFETY 18 SAFETY 19 11 SAFETY 20 SAFETY 21 Not recommended seating position SAFETY 22 SAFETY 23 SAFETY 24 We recommend the customer to immediately visit TATA MOTORS authorised service centre and get the SRS system inspected if any of the above conditions occur.
+If your SRS malfunctions, the air bag may not inflate properly during a collision thereby increasing risk of serious injury or death.
+If any of the following conditions occur, your SRS is malfunctioning  WARNING injuries to occupants in the vehicle.
+Coat hooks if provided, must be used only for that purpose.
+This could affect deployment of the air bags, and may lead to severe to fatal injuries.
+ALWAYS contact your TATA MOTORS authorised service centre if the vehicle is damaged, even if airbag has not inflated.
+ALWAYS contact your TATA MOTORS authorised service centre if any part of an airbag module cover shows sign of cracking or damage.
+Please be aware that any unsecured item in your vehicle, such as your pet, unsecured CRS or a laptop, can become a potential hazard in the event of a collision or sudden stop, causing SAFETY 25 The SRS warning lamp does not turn   ON  when the ignition switch is placed in the   ON  position for few seconds.
+The SRS warning lamp stays   ON  after illuminating The SRS warning lamp comes  ON /stays   ON  while the vehicle is in motion.
+The SRS warning lamp blinks when the engine is running.
+Deployment Conditions (If SAFETY AIRBAGS equipped) When front airbags (if equipped) should not deploy?
+Minor frontal collision   Seat belt offers adequate occupant protection in low severity collisions.
+SAFETY WARNING Never make any modifications to your vehicle.
+The modifications carried out, but not limited to the vehicle frame, bumpers, front fenders, ride height, suspension, seat belts, interior trims, steering wheel (especially holders), are not accep- table.
+This will affect the intended performance of SRS system.
+The airbags are triggered only when there is a collision severe enough to trigger the airbags.
+Deployment of frontal airbags is not beneficial in low severity collisions.
+Side collision  During a side collision, occupants tend to move sideways.
+Therefore, deploying frontal airbags in such situations will not benefit the occupants.
+Side airbags, side curtain airbags (if equipped) are specifically designed to reduce the injuries that can occur in side collision.
+Rear collision  During a rear collision, occupants tend to move (rearwards) away from frontal airbags.
+Therefore, deploying frontal airbags in such situations will not benefit the occupant protection.
+Head restraints and seat belts provide occupant protection during a rear collision.
+Rollovers collision  During a rollover collision occupants may float inside the passenger compartment, if unbelted.
+Wearing seat belts provide highly effective occupant protection during rollover collision.
+If your vehicle is equipped with a rollover sensor, both, seat belt and side curtain airbag can provide highly effective occupant protection during rollover collision.
+Front airbags, however, are not designed to deploy in a rollover as frontal airbags cannot offer any protection in rollover collision.
+When front airbags (if equipped) deploy with minor or no visible vehicle damage?
+Fitment of bull bars, seat covers on seats with airbags etc, is strictly prohibited, unless authorised by TATA MOTORS.
+This will affect the intended performance of SRS system.
+If you need to make any modifica- tions to accommodate any disability you may have, please contact your Authorized TATA MOTORS Dealer for necessary guidance.
+Do not tamper with SRS in any 18 way.
+This will lead to unexpected performance of system and may cause serious injury or death.
+SAFETY The airbags are triggered only when there is a collision severe enough to trigger the airbags.
+A severe collision to Since the collision is underneath the vehicle, damage may not be readily visible.
+When front airbags (if equipped) may not deploy, even with exterior visible vehicle damage?
+The airbags are triggered only when there is a collision severe enough to trigger the airbags.
+The amount of visible vehicle damage is not always the correct indicator for airbag deployment.
+Some collisions can result in visible damage but no airbag deployment because the airbags would not have been needed or would not have provided protection even if they had deployed.
+When a side airbag (if equipped) deploys with minor or no visible vehicle damage?
+The airbags are triggered only when Child Lock the vehicle underbody or suspension may cause airbags into a curb or other low fixed obje ct that causes a sudden deployment.
+there is a collision severe enough to trigger the airbags.
+If the airbag system senses sudden deceleration, a strong collision to the side of the vehicle  s frame can cause a side airbag to deploy.
+In such cases, there may be little When a side airbag (if equipped) may not deploy, even with exterior visible vehicle damage?
+It is possible that the side airbag does the provided with a child proof lock.
+Push far front or far rear of the vehicle or when the lock lever located on vertical face of the vehicle s crushable body parts the door downward before closing the absorbed most of the collision energy.
+The door which has been locked by either case, the side airbag would not activating the child lock cannot be have been needed not deploy during a collision that results nor provided in visible severe damage.
+This can occur opened from inside, it can be opened protection even if it had deployed.
+oth the rear doors of the vehicle are when the point of collision is toward SAFETY SAFETY NOTE PS NOTE SAFETY Lift the lock lever upward to deactivate the childproof lock when not required.
+Child safety lever to be used for safety of child for preventing them to open rear door while seating in passenger seat to avoid accident while vehicle is running.
+Use only Flip key, the other should be kept in a safe location.
+information (and keep it safe) which is required while getting new/spare keys.
+Remember that it is not possible to prepare new/spare keys without the  key Tag number.
+Take precaution about Flip key, as without Flip key vehicle cannot be started.
+Anti-Theft Device-Immobilizer/ PE 19 Immobilizer system is designed to pre- vent vehicle theft by electronically disa- bling the engine ignition system.
+The en- gine can be started only with vehicle s original Immobilizer ignition key which has an electronic identification pro- grammed code.
+20 SAFETY Vehicle Condition Immobilizer Lamp Status Vehicle State Meaning / Function of the state Ignition OFF Blinking Locked Vehicle Immobilized and awaiting electronic key Ignition ON OFF Unlocked Normal condition and ready to start the vehicle Ignition ON ON Locked - Problem with key (Wrong key used to start vehicle) - Problem with Immobilizer system.
+Contact a TATA MOTORS Authorized Service Centre Ignition ON Blinking Unlocked - Contact a TATA MOTORS Authorized Service Centre immediately Anti-lock braking system you brake.
+It goes out when the engine (ABS) (if equipped) steering the vehicle when braking.
+ABS regulates brake pressure in such a The ABS warning lamp in the instrument way WARNING that the wheels do not lock when cluster lights up when the ignition is 21 SAFETY   If ABS intervenes  continue to depress the brake pedal vigorously until the braking situation is over.
+When Braking   If ABS is faulty, the wheels could lock when braking.
+The steer ability and braking characteristics may be severely impaired.
+There is an increased danger of skidding and accidents.
+Have ABS checked immediately at a TATA MOTORS Authorized Service Centre as soon as possible.
+WARNING   The stopping distance required for vehicles with ABS may be slightly more than conventional brake system but ABS will still offer the advantage of helping you maintain directional control.
+However, remember that ABS will not compensate for bad road or weather conditions or poor driver judgment.
+Drive within safety margins taking into consideration into consideration prevailing weather and traffic conditions.
+To make a full brake application  depress the brake pedal with full force.
+If ABS intervenes when braking, you will feel a pulsing in the brake pedal.
+The pulsating brake pedal can be an indication of hazardous road conditions, and functions as a reminder to take extra care while driving.
+Electronic brake force distribution (EBD) (if equipped) EBD monitors and controls the brake pressure on the rear wheels to improve driving stability while braking.
+EBD provides optimal braking pressure distribution between front and rear wheels to optimize braking distance and to ensure vehicle stability by means of lowering braking pressure increase at rear wheels .
+WARNING 22 SAFETY   If EBD is malfunctioning, the rear wheels can lock, e.g.
+This increases the risk of skidding and an accident.
+You should therefore adapt your driving style to the different handling characteristics.
+Have the brake system checked immediately at a TATA MOTORS Authorized Service Centre as soon as possible.
+23 OPENING AND CLOSING KEYS A key is an electronic access and authorization system which is provided as a standard feature on your vehicle.
+Unlocking principle The transponder which is built into the ignition key carries a unique identification code.
+The vehicle unlocks when the code on the key matches with the code on the Engine Management System (EMS).
+In case of PEPS variant, Immobilizer function is provided by PEPS ECU.
+Engine starting When the key is inserted and the ignition is switched   ON , all codes are communicated within key, Immobilizer and EMS.
+The engine will start only if all the codes match.
+Loss of keys If one of the keys is lost, contact your nearest TATA MOTORS authorised dealer immediately.
+Keys (as applicable) 24 WARNING   Do not turn   ON  ignition switch by using key with any type of metal wound around its grip or in contact with it.
+This may be detected as abnormal condition by immobilizer and prevent engine from starting.
+Do not leave the key in areas of high temperature.
+The transponder in it will behave abnormally when reused.
+Do not try to start the vehicle when the Immobilizer indicator lamp on the instrument cluster is glowing.
+In this condition the vehicle will not start and the vehicle s battery will also be drained due to frequent cranking.
+OPENING AND CLOSING Sr.no Name Remote key Description 1.
+Locking all doors Approach light Tail gate opening 4.
+Unlocking all doors 26 43 Flip Key with Remote 1.
+Unlocking all doors Pressing the unlock button ( 1) of remote will unlock all the Doors.
+Approach light Press approach light button ( 2) once, low beam, positon, roof lamp will turn  ON .
+This feature helps to find and reach the parked vehicle or to reach home in dark/ cloudy condition after parking.
+To switch  OFF  the approach lights, press and release the same 1.
+Unlocking all doors button or it automatically turns  OFF  2.
+Tail gate Unlatch To unlatch the Tale gate, long press the 3.
+Locking all doors approach light button ( 2) on remote for 4.
+OPENING AND CLOSING Tail gate once unlatched will not get lock automatically with doors.it will locked by slamming it 3.
+Locking all doors Pressing the Lock button ( 3) once.
+Folding key blade IN / OUT Press button ( 4) to flip out the key blade.
+For folding, press the button (4) and fold the key blade inside.
+OPENING AND CLOSING If key is removed from ignition, the engine will be immobilized automatically even if you forget to lock the vehicle.
+For few variant, Ignition off is required to immobilize the vehicle.
+Auto locking / unlocking of doors / auto relock   Vehicle doors get automatically locked when all doors are closed and the vehicle speed crosses 10 kmph.
+Please refer Flip key Features section starting and driving for more information.
+Vehicle search   When ignition key is taken out all the doors In vehicle locked condition if lock button on remote key is pressed the turn indicators get automatically unlocked.
+Automatic activation of immobilizer NOTE Key Blade should not be folded without pressing the button.
+Also, it should not be forced in any direction apart from folding direction to avoid damage to Flip Mechanism 45 38 OPENING AND CLOSING   For few variant, when ignition is turned off all the doors get automatically unlocked.
+Also, when unlocked with remote key and if no door is opened within 30 seconds, vehicle doors get automatically locked.
+Anti-grab / anti-scan coding The remote control set of this security system is protected types of against the use remote of devices called  scanners  and codes.
+grabbers  which Sleep can record and reproduce some Mode If remote key is not used for more than a week then its open the door functionalities mechanically with th e will turn NOTE In case any button of the key is accidentally pressed for more than 20 seconds, the remote stops functioning till the time the button is pressed.
+The function of the remote gets reinstated immediately when the user stops pressing the push button of remote.
+In such a case, to activate OPENING AND CLOSING the remote key functionalities, Smart Key (if equipped) Keep the smart key with user to perform the passive access.
+It is used for locking, unlocking and starting the vehicle.
+Locking all door Pressing the Lock button ( 1) once.
+Please refer section starting and driving for more information.
+Approach light Press approach light button ( 2) once, low beam, positon, roof lamp will turn   ON .
+This feature helps to find and reach the parked vehicle or to reach home in dark/ cloudy condition.
+To switch  OFF  the approach lights, press and release the same button or it 47 40 automatically turns  OFF  after certain time.
+Tail gate Opening To open the Tail gate press the button ( 3) once on the smart key, Tail gate will unlatch.
+Please refer section starting and driving for more information.
+Unlocking all doors Pressing the unlock button ( 4) once.
+Please refer section starting and driving for more information.
+NOTE If smart key battery is low/drained or vehicle battery is low/drained, user can unlock and enter into vehicle by using mechanical key blade.
+Key blade in / out OPENING AND OPENING AND CLOSING If smart key will not found within the passenger compartment, engine will be immobilized and vehicle cannot be start.
+CLOSING 49 42 OPENING AND CLOSING Auto locking / unlocking of doors / auto relock In case of PEPS variants, door will get unlocked when ignition is OFF by pressing Start Stop switch.
+Anti-grab / anti-scan coding The remote control set of this security system is protected against the use of Slide the knob ( 1) to unlatch the key.
+Pull devices called  scanners  and  grabbers  the key blade ( 2) out.
+which can record and reproduce some Smart Key Features Vehicle types of remote codes.
+search In vehicle locked condition if lock button Important on remote key is pressed the turn   Don t operate Unlock button of indicators of vehicle flashes 4 times.
+remote while in the vicinity of your Automatic activation of immobilizer vehicle, as it could lead to an 44 Keep elec block the k   For battery, replacement procedure refer  MAINTENANCE  1.
+Don t remove the battery connection of the vehicle while the vehicle has been locked by remote.
+Two Smart Keys Scenarios If smart key is close to radio trans- mitter such as radio station or an airport which can interfere with normal operation Smart key Precautions  2.
+key is near a mobile two way radio system or a cellular phone, then it is not working properly.
+If another vehicle s smart key is be- ing operated close to your vehicle, signal is fluctuated.
+Sr.no Scenarios Precondition Action PEPS behaviour 1 One smart key is inside the vehicle (away from Immobilizer antenna) and other smart key is outside the vehicle within authentication range.
+Vehicle is in OFF mode and all door closed Lock the vehicle with outside smart key (passive lock / RKE lock) and keep outside smart key away from authentication range.
+When user tries to start the vehicle with inside smart key, vehicle doesn t start.
+45 OPENING AND CLOSING 2 One smart key is inside the vehicle (near Immobilizer antenna) and other smart key is outside the vehicle within authentication range.
+Vehicle is in OFF mode and all door closed.
+Lock the vehicle with outside smart key and keep outside smart key away from authentication range.
+When user tries to start the vehicle with inside smart key, vehicle would start with back up start.
+User presses start/stop button twice with the interval of 2.5 sec between two presses within 5 seconds.
+Note   The vehicle doesn t start if inside smart key is kept away from Immobilizer antenna until vehicle is unlocked by outside smart key via outside door handle OR RKE unlock command from inside/outside smart key is received.
+OPENING AND CLOSING 53 Sr.No Scenarios Precondition Action PEPS behaviour 3 One smart key is inside the vehicle (near Immobilizer antenna) and other smart key is outside the vehicle within authentication range.
+Vehicle is in OFF mode and all door closed.
+Lock the vehicle with outside smart key and keep outside smart key away from authentication range.
+When user tries to unlock/lock the vehicle ((RKE lock / unlock) with inside smart key, RKE lock/ unlock operation takes place normally.
+33 4 One smart key is inside the vehicle (away from Immobilizer antenna) and other smart key is outside the vehicle within authentication range.
+Vehicle is in OFF mode and all door closed Lock the vehicle with outside smart key (passive lock / RKE lock) and then unlock the vehicle with mechanical key.
+When user tries to start the vehicle with inside smart key, vehicle doesn t start.
+5 One smart key is inside the vehicle (away from Immobilizer antenna) and other smart key is outside the vehicle within authentication range.
+Vehicle is in ACC/IGN mode and all door closed.
+When user tries to unlock the vehicle passively with outside Smart key (from drive), vehicle doesn t get unlocked in ACC/IGN mode.
+Also, when user tries to unlock the Tail gate passively, Tail gate doesn t get unlocked.
+Sr.No Scenarios Precondition Action PEPS behaviour OPENING AND CLOSING 55 6 One smart key is inside the vehicle (away from Immobilizer antenna) and other Smart key is outside the vehicle within authentication range.
+Vehicle is in ACC/IGN mode, all door closed, and vehicle is in unlock state.
+Keep the outside smart key within driver door vicinity and try to lock vehicle with driver door handle switch from driver side.
+Vehicle doesn t get locked in ACC / IGN mode.
+Doors Door locking / unlocking using door handle switch (DHS) Door locking / unlocking with key (if applicable) To lock/unlock all the doors without operating smart key button/ key blade.
+Driver / co-driver doors can be locked or NOTE Authentication range for smart key shall be 1 to 1.5 meter from outside the respective door or Tail gate.
+Locking without a key from inside All the doors can also be locked from unlocked from outside using the key blade.
+Insert the key and turn it clockwise to lock and anticlockwise to unlock the Press the door handle switch (DHS) provided on the driver door to lock/unlock all the four doors except Tail gate.
+OPENING AND CLOSING 57 There is a single pull override feature on driver door.
+All door can be unlocked by inner handle without operating lock knob of inner handle.
+inside by pressing knob on driver door and independently on other doors respectively.
+OPENING AND CLOSING 58 Opening the doors from inside Windows driver s arm rest.
+They work only when the key is in the  IGN ON  position.
+NOTE Power windows can be operated for 30 sec.
+in  IGN OFF  and  KEY OUT  position, provided doors are not open.
+To open, pull the door opening knob ( 1 ) and OPENING AND CLOSING 59 Window glasses on all four doors can be p operated by switches provided on the r main control panel located on the e WARNING OPENING AND CLOSING 60 While raising the glass, take care to avoid fingers/hands getting trapped between glass and the door frame.
+WARNING If children operate the windows they could be get trapped, particularly if they are left unsupervised.
+OPENING AND CLOSING 61 OPENING AND CLOSING 62 OPENING AND CLOSING 63 OPENING AND CLOSING 64 The stay rod can be hot enough to burn your finger right after driving.
+Tail gate Opening Touch the rod after it becomes cool enough.
+Pull the bonnet Insert the stay rod into the hole stay rod from its clip and insert the free securely.
+If the rod drops off, your end into the slot provided on frame.
+To close the bonnet, hold the bonnet by one hand, disengage the stay rod and clamp it back properly.
+Lower the bonnet close to the bumper, then let it drop down.
+NOTE Make sure that the wiper arms are not raised before you lift up the bonnet to avoid damaging the wiper arms and the bonnet.
+Option I OPENING AND CLOSING 65 WARNING To open the Tail gate, pull the lever located at the right hand side below the driver s seat and lift the Tail gate.
+Remote operated Tail gate unlatching When user press the Tail gate button on To open the Tail ga te, press the can be done through long press ( 2 sec) switch remote, Tail gate gets unlatched.
+WARNING Ensure that the bonnet is properly locked before driving or it can fly up unexpectedly during driving .
+Option II Option III Option IV 66 OPENING AND CLOSING If vehicle is locked and Tail gate is closed and Tail gate DHS switch is pressed with OPENING AND CLOSING 60 For closing, pull the tail gate down and close it with a slight swing.
+WARNING Tail gate can t be locked using mechanical key/ flip key/ smart key.
+OPENING AND CLOSING OPENING AND CLOSING Option I 62 47 OPENING AND CLOSING 49 DASHBOARD AND FEATURES 1 A.C.
+Air vent 2 Air Bag (PAB) (if fitted) 3 Infotainment Display (if fitted) 4 Combi-Switch 5 Horn pad 6 Air Bag (DAB) (if fitted) 7 Steering Wheel Switches (if fitted) 8 Controls 9 Foot Rest 10 USB/AUX Port DASHBOARD AND FEATURES 76 11 Fascia switches 12 Start/Stop switch 13 Foldable Arm-Rest (if fitted) 14 Parking Brake Lever 15 Drive Control knob 16 Power socket 17 Gear Shift Lever 18 HVAC Control panel 50 DASHBOARD AND FEATURES 77 Cockpit (MT) DASHBOARD AND FEATURES 78 DASHBOARD AND FEATURES 79 Cockpit (AMT) DASHBOARD AND FEATURES 80 DASHBOARD AND FEATURES 81 DASHBOARD AND FEATURES 82 NOTE  All indicators shown may not be applicable to your vehicle.
+Instrument Cluster   Version 2 DASHBOARD AND FEATURES 83 NOTE  All indicators shown may not be applicable to your vehicle.
+DASHBOARD AND FEATURES 84 NOTE At every key IN and ignition ON, the Instrument Cluster needles and gauges moves to MAX.
+This is a welcome strategy and a self-check feature.
+WARNING When engine is accelerated beyond safe  rpm , the tachometer pointer turns RED.
+Never drive the vehicle with engine in high  rpm  .
+DASHBOARD AND FEATURES 85 Speedometer Speedometer indicates the vehicle speed in km/h.
+1 Version 1 Tachometer Version 2 Tachometer indicates engine speed in Version revolutions per min (rpm).
+DASHBOARD AND FEATURES 86 Version 2 87 WARNING Running the fuel tan empty can cause engin and could endanger U passengers.
+User mus obtain additiona fuel as possible afte warning telltale tu Do not continue addin the automatic shut off fu operated if it is equippe fuel pump.
+The sensor tank may misjudge the a fuel remaining.
+DASHBOARD AND FEATURES 88 DASHBOARD AND FEATURES t l Low fuel warning symbo if there is any fault in th Take your vehicle to the TATA MOTORS Authorise station if the symbo blinking.
+NOTE On inclines or curves, the fuel gauge may fluctuate or the 1st bar may blink or low fuel telltale may turn ON earlier than actual due to the movement of fuel in the tank.
+On inclines, curves, during braking and sudden acceleration due to the movement of fuel in the tank, the fuel level display may fluctuate or the low fuel level warning lamp may illuminate earlier than usual.
+Always check the fuel level when the vehicle is on level road.
+DASHBOARD AND FEATURES 89 Fuel Gauge When the ignition switch is in   ON  position, fuel gauge gives an approximate indication of the amount of fuel in the fuel tank.
+F  stands for full and  E  stands for empty.
+When fuel in the tank is near to empty position, low fuel warning Tell tale turns   ON .
+If fuel is not filled even after Low fuel warning Tell tale   ON , first bar in fuel gauge will start blinking to indicate more severe low fuel warning.
+Temperature Gauge (if equipped) If the coolant temperature reading is very high, the warning Telltale flashes with an audible buzzer.
+In this case, stop the vehicle, switch  OFF  the engine and cool it down for some time.
+Contact a nearest TATA MO- When the ignition switch is in the  ON  position, this gauge gives an approximate indication of the amount of fuel in the fuel tank and it takes few seconds to stabilize after the ignition is turned ON.
+DASHBOARD AND FEATURES 90 TORS Authorized Service Centre immedi- ately for rectification.
+High Coolant temperature warning may come when cooling fans in radiator sec- tions are malfunctioning.
+WARNING The High Coolant temp warning Telltale indicates overheating that may damage the engine.
+Continuing to drive the vehicle when engine overheating is indicated can result in severe engine damage or fire.
+DASHBOARD AND FEATURES 91 Never remove the radiator pressure cap from the radiator when the engine is hot.
+Do not restart the engine until the problem has been duly attended.
+Driver Information System Image Description DASHBOARD AND FEATURES 92 Odometer Indicates distance travelled by a vehicle.
+The Odometer reading does not return to   0  when maximum value is reached, the display will freeze to maximum value.
+Trip meter A & B The trip meter can be used to measure the distance travelled on short trips or between fuel stops.
+It can be reset to   0 .Trip meter reading becomes   0.0  after it crosses 9999.9 kms.
+Average Fuel Economy for Trip A and Trip B Displays  Average Fuel Economy  since last reset.
+Whenever the Trip A/B meter get reset the respective AFE A/B shall get reset.
+Distance To E mpty Indicates approximate distance that your vehicle can travel with available fuel in tank under current average fuel consumption rate and it displayed in   km  NOTE  Irrespective of DTE value, please fill the Fuel if the low fuel warning is turned ON.
+DASHBOARD AND FEATURES 93 DASHBOARD AND FEATURES 94 Instantaneous fuel Economy The display shows the value of instantaneous fuel consumption only when the vehicle is moving.
+Driver Information System Image Description Clock Indicates current time in AM/PM mode.
+Clock time can be changed using  SET  &  MODE  knob.
+Whenever the battery terminals or related fuses are connected, you must reset the clock time.
+This feature is available when ignition switch is in   ON  position.
+NOTE   Clock settings can also be changed through infotainment system.
+DASHBOARD AND FEATURES 95 Service reminder Indicates the number of days/kilometers in which service is due.
+If service is overdue, it will display   0  km or   0  days and spanner symbol will blink at every ignition ON for few seconds.
+Information is retained in the service interval display also after the vehicle battery is disconnected.
+Keep track of your odometer reading and follow the maintenance schedule.
+Current gear position indicator Current gear engaged by the transmission shall be displayed on DIS.
+NOTE  If  F  is displayed it means  Fault  condition.
+In case of Manual Transmission, the Gear number shall be dis- Driver Information System Image Description DASHBOARD AND FEATURES 96 Door Ajar (If applicable) All four door and Tail gate are indicated independently when respective door or tail gate is open.
+DASHBOARD AND FEATURES 97 This warning will be indicated when Driver door and any others door is open.
+NOTE  If any other door is open roof lamp will be   ON  .
+Gear Recommendation Up or Down arrow shall be displayed on DIS whenever Gear should be put Up or Down.
+This feature is applicable to both AMT and MT variant.
+No arrow shall be displayed when the selected Gear is as per the Vehicle dynamics.
+Instantaneous fuel economy (IFE) The display does not show actual value unless vehicle is moving.
+IFE display does not show Fuel Economy The indication on the display may be of last drive.
+delayed if fuel consumption is affected IFE will vary frequently as per driving pattern.
+DASHBOARD AND FEATURES 98 Monitor IFE bar graph to achieve better It indicates fuel economy of current by driving pattern.
+Average fuel economy (AFE) DTE values may vary significantly based on driving conditions, driving habits, and condition of the vehicle.
+It is an estimate Average Fuel Economy will reset to   0  when value of the available driving distance.
+Average Fuel Economy will be displayed as   --.-- for initial 0.5 km of respective 3.
+Once 0.5 km distance is covered, Average Fuel Economy will be displayed.
+The DTE will update with new value Even after 0.5 km distance covered for when fuel is added more than 4 Litres at particular trip, if Average Fuel Economy a time.
+is displayed as   --.-- , then take your It indicates approximate distance in   km  vehicle If low fuel warning light turns   ON , fill to TATA MOTORS Authorized that your vehicle can travel with Service Centre.
+the fuel tank immed iately regardless the value of displayed DTE.
+It may vary significantly based upon driving conditions, driving habits and condition of vehicle.
+Average Fuel Consumption will get Reset to  0  when Battery is removed and refitted.
+NOTE If DTE is displayed as   --- , then take your vehicle to TATA MOTORS Authorized Service Centre.
+DASHBOARD AND FEATURES 100 86 NOTE DASHBOARD AND FEATURES 101 Driver Information Settings OAT screen wil not be displayed for Non-FATC and Non-AMT Variants.
+DASHBOARD AND FEATURES 102 User selection to IFE screen will not be allowed if Fuel is below 1/4th tank level.
+DASHBOARD AND FEATURES 103 Digital Clock setting DASHBOARD AND FEATURES 104 WARNING The Clock and Instrument Cluster Illumination settings should be done only when the vehicle is in stationary condition for safety purpose.
+NOTE DASHBOARD AND FEATURES 105 At Every Ignition ON Fuel gauge will be displayed in place of  Instantaneous Fuel consumption  Bar Graph irrespective of user selection screen.
+User can Toggle between  Fuel Gauge  and  Instantaneous Fuel consumption  Bar Graph using SET and MODE Button.
+User selection to IFE screen will NOT be allowed if Fuel is below 1/4th tank level.
+DASHBOARD AND FEATURES 106 Instrument Cluster Illumination For Instrument Cluster illumination level settings, it is necessary to turn the Park Lamp   ON  and then Press the  SET  knob on Instrument Cluster.
+Press  SET  knob to change the illumina- tion intensity level in 5 steps.
+A delayed press on the  SET  knob for a selected in- tensity will confirm it.
+Warning Lamps Color Indicator Remarks Malfunction Indication Lamp Amber 1.
+It remains   ON  for any engine related fault that may increase emission levels of the vehicle beyond the regulatory norms.
+Contact a TATA MOTORS Authorised Service Centre for rectification.
+During Vehicle Running if LCD Screen is in  Instantaneous Fuel consumption  Bar Graph mode & if fuel gauge reduces to 1/4th tank level then LCD Screen will automatically goes to Fuel Mode.
+Illuminates continuously if a fault arises in Engine Management System.
+Illuminates when the system disables engine start if the original key is not used.
+Lamp blinks  Vehicle is in immobilized condition when key is not inserted.
+Lamp OFF  Normal condition (Authenticated user) and engine will start.
+Illuminates continuously if excess water is accumulated in the fuel filter.
+Contact a TATA MOTORS Authorised Service Centre to drain the water immediately to avoid serious damage to the fuel injection system.
+DASHBOARD AND FEATURES 108 Warning Lamps Color Indicator Remarks Glow Plug (Diesel) Amber 1.
+Engine shall be started only after this indicator goes  OFF  .
+Turn Signal Green Indicates direction indicated by the turn signal.
+Blinks along with buzzer while operating left/right turn indicator only when ignition is switched   ON .
+The direction indicator arrow on Instrument Cluster flashes along with external indicator lights as selected.
+Both Tell tales shall blink simultaneously when Hazard switch is pressed irrespective of Ignition ON and the Tick- Tock sound shall be given when any one or both the Tell tales are ON.
+High Beam Blue Illuminates when the high beam headlamps are switched   ON  or flashed.
+DASHBOARD AND FEATURES 109 Low Oil Pressure Red 1.
+Illuminates when ignition is switched   ON  and goes  OFF  once required engine oil pressure is developed after starting the engine.
+If the low oil pressure indicator does not glow or remains  ON  with the  IGN    ON  and engine is running, it indicates a fault in the electrical circuit / lubrication system.
+EPAS Amber Illuminates momentarily when ignition is switched   ON .
+Illuminates when there is a fault in the EPAS.
+Warning Lamps Color Indicator Remarks DASHBOARD AND FEATURES 110 Battery charging Red Illuminates when ignition is switched   ON .
+If it remains   ON  while the engine is running, it indicates that the battery is not getting charged.
+Switch off all unnecessary electrical equipment and Contact a TATA MOTORS Authorised Service Centre.
+EPAS Amber Illuminates momentarily when ignition is switched   ON .
+Illuminates when there is a fault in the EPAS.
+DASHBOARD AND FEATURES 111 Driver Seat belt indicator Red Seat belt warning indicator comes   ON  for 4 seconds, when ignition is turned   ON .
+If seat belt is not fastened and lamp will be ON continuously for 30 sec.
+If seat belt is not fastened and vehicle speed goes above 4 kmph, Telltale will be ON as initial warning with No audio chime.
+If seat belt remains unbuckled and vehicle speed goes above 15 kmph, Final Waring will start with audio chime for 90 seconds continuously.
+Note    Telltale will turn OFF when vehicle speed goes below 2 km / hr when it is in initial warning.
+Once the seat belt is fastened, the buzzer and warning indicator will go  OFF  .
+Seat belt audio alarm remains OFF when reverse gear is engaged.
+Warning Lamps Color Indicator Remarks DASHBOARD AND FEATURES 112 Co-Driver Seat belt indicator Red If Co-Driver (Passenger) is present and its seat belt is not buckled and IGN is ON then Telltale will be ON as initial warning with No audio chime.
+Telltale will get tu rn OFF when Co-Driver (Passenger) seat belt is buckled.
+If Co-Driver (Passenger) seat belt remains unbuckled and vehicle speed goes above 15 km/ hr, Then Final Warning will start with Audio Chime and it will b e continue for 93 seconds.
+Co-Driver (Passenger) Seat belt telltale will also start flashing along with audio alarm during Final Warning.
+Park Brake / Brake Fluid Low / ABS Fault / EBD Fault Red Illuminates momentarily when ignition is switched   ON .
+Once parking brake is released, it turns  OFF .
+Park brake is applied & turns  OFF  when it is released.
+DASHBOARD AND FEATURES 113 High Coolant Temperature Red Illuminates when ignition is switched   ON  and goes  OFF  in approx.
+If the engine is overheating, this indicator blinks along with an audible buzzer a t his stage Contact a TATA MOTORS Authorised Service Centre immediately.
+This symbol blinks along with audible buzzer when engine coolant temperature is more than normal.
+When engine coolant temp increases to hazardous level, Tell tale shall blink with RED color and it is accompanied by audio warning.
+Never remove the radiator pressure cap from the radiator when the engine is hot.
+Do not restart the engine until the problem has been duly attended.
+DASHBOARD AND FEATURES 114 Warning Lamps Color Indicator Remarks en vehicle ed is more below 80 needs to n the fuel tely DASHBOARD AND FEATURES 115 s d Warning Lamps Color Indicator Remarks ABS (if applicable) Amber Illuminates when ignition is switched   ON  and goes  OFF  in 3 seconds.
+Illuminates continuously if there is any malfunction in ABS.
+Normal braking system will be operational without assistance of ABS.
+DASHBOARD AND FEATURES 116 Low Fuel Amber Illuminates momentarily when ignition is switched   ON .
+The symbol lights up continuously if fuel level in the tank is low.
+IMPORTANT  The warning light will start flashing if there is any fault in the fuel system.
+Airbag status (if applicable) Red Illuminates when ignition is switched   ON  and goes  OFF  in approx.
+If it will continuously illuminate or blinks then Contact a TATA MOTORS Authorised Service Centre immediately.
+CITY Blue When ignition is turned   ON , this symbol comes   ON  for 4 seconds and goes  OFF .
+This mode is used to achieve optimum torque with fuel economy.
+This mode is used to achieve optimum torque with fuel economy.
+This mode is used to achieve optimum torque with fuel economy.
+DASHBOARD AND FEATURES 117 Warning Lamps Color Indicator Remarks SPORT Amber This symbol lights up when the  IGN  is turned   ON  and goes  OFF  after 4 seconds.
+This symbol comes ON when SPORT driving mode is activated when more torque is required.
+AMT Fault (If applicable) Amber Illuminates momentarily when ignition is switched   ON .
+Illuminates continuously when there is a fault in Automated Manual Transmission system.
+Key Not Detected Amber This symbol lights up when the Valid Smart key is not detected inside the vehicle.
+118 DASHBOARD AND FEATURES Press Clutch/ brake Pedal to Start Engine Amber Press Clutch (Applicable to MT vehicle type)  This turns ON with IGN ON till user press the clutch to start the engine.
+Press Break (Applicable to AMT vehicle type)  This turns ON with IGN ON till user press the brake to start the engine Daytime running lamps - DRL (if applicable) Green Illuminates when ignition is switched   ON  and goes  OFF  after 4 Seconds.
+This symbol illuminates when the Day Time Running lamp is   ON .
+Fuel filter clogging (If applicable) Amber When ignition is turned   ON , this symbol comes   ON  for 4 seconds and goes  OFF .
+This symbol continuously comes   ON  when Fuel Filter is clogged.
+Audio Reminders   Key in reminder   While leaving your vehicle, if you forget the key inside the vehicle in Ignition  OFF  position, buzzer will provide audio warning.
+No Key Detected Inside the vehicle  Vehicle is in ACC ON / IGN ON / Engine run condition.
+Customer takes the smart key outside the vehicle and closes the door On last 119 door close, customer can here audio warning on instrument cluster (beeps) for 10 seconds.
+NOTE In this condition customer needs to bring the smart key inside the vehicle.
+Key Detected Inside or In Wrong Area    Vehicle is in unlock condition & ignition is OFF.
+Smart key is inside the vehicle or in the range of other door / tailgate   Customer tries to lock the vehicle by pressing driver door handle switch   Customer can here the audio warning on instrument cluster (beeps) for 10 seconds.
+NOTE In this condition customer needs to bring smart key in proper range to lock vehicle Rotate Steering Wheel    Vehicle is in OFF condition.
+Customer presses the start-stop switch to start the engine or activate higher power mode.
+Customer can here the audio warning on instrument cluster (beeps) for 3 seconds.
+Park lamp   ON  reminder While leaving your vehicle, if you forget to turn  OFF  the headlamps, buzzer will provide audio warning.
+Do not forget to turn  OFF  your headlamps as it may drain your vehicle battery.
+Park brake   ON  reminder If Park Brake is applied and vehicle is driven, Tell tale will turn   ON  and DASHBOARD AND FEATURES buzzer will provide audio warning continuously.
+Reverse gear reminder When Reverse Gear is engaged, audio warning for 1 sec will alert you.
+Driver seat Belt reminder If seat belt remains unbuckled and vehicle speed goes above 15 km/ hr, Final Waring will start.
+Audio Chime will continue for 90 NOTE In this condition customer needs to rotate the steering wheel and press the start-stop switch again 120 seconds.
+Seat belt telltale will remain continuously ON when audio alarm is active.
+Front passenger seat belt reminder If Front passenger is present & its seat belt remains unbuckled and vehicle speed goes above 15 km/ hr.
+Seat belt telltale will remain continuously ON when audio alarm is active.
+DASHBOARD AND FEATURES NOTE Drive mode chime Manual Transmission  When Drive mode changes from City to Eco mode or Eco to City mode, audio warning will be alert for one second.
+Automatic Transmission  When Drive mode changes from Manual to Auto or Auto to Manual, audio warning will be alert for one second.
+Day Time Running Lamps (DRL) (if equipped) Day time Running Lamps Buckle the seat belt to stop Audible If Fault occur in AMT, 3 second audio warning.
+AMT fault Reminder (DRL) are used to increase the visibility of the vehicle to other drivers during daytime.
+121 To activate and deactivate DRL, keep t h e I g n i tion switch is   ON  position and switch ON-OFF parking lamp twice within approx.
+Combi-Switch (RH Stalk) Pull the lever back to normal for low beam.
+High beam Flash (spring return) To flash the high beam, pull the lever towards you from the normal position.
+It will return to its normal position when you release Headlamp Rotary Switch i) OFF 4.
+Left Turn signal - Move the lever fully upward.
+ii) DRL (if equipped) will turn   ON   as long as parking lamp input is  OFF  and engine is running.
+To temporary deactivate DRL turn   ON   and  OFF  the park lamp switch two times within 3 seconds.
+The lamp can be activated again by performing the same action.
+iii) Low Beam Rotate stalk to turn   ON  the Low Beam function.
+Lane Change Signal To signal a lane change, move the lever slightly up or down to the point where the turn signal light begins to flash, but the lever does not latch.
+Right Turn NOT signal - Move the lever When the turn is Rotate signal will cancel a stalk to turn return to its norma  ON  the 3.
+High beam - Move the lever forward to select the High Parking fully Beam function.
+Head lamp leveling rotary switch 106 DASHBOARD AND FEATURES 1) Intermittent wipe Inner rotary switch on left The wiper is switched  OFF  .
+Push the stalk upwards to operate hand stalk is provided for intermittent wipe.
+2) Slow Wipe 125 DASHBOARD AND FEATURES continuous slow wipe.
+3) Fast Wipe towards stalk the Push position ( 3 for continuous ) fast wipe.
+4) Flick wipe ( spring return) Pull the stalk downwards and hold it for continuous wipe, the wiper continuously wipes across the windshield at low speed till the stalk is released.
+5) Front Windshield Washer   Pull the lever little longer, washer fluid will be sprayed 3 cycles.
+Rear Wipe 6) Rear Wash and Wipe Turn the rotary knob counter clockwise such that it aligns its positions with arrow mark to operate rear windshield wiper continuously.
+NOTE When you crank the engine, the is supply to washer motor momentarily cut off.
+Rear Windshield / Wiper and Washer Turn the rotary knob ( if e quipped ) 127 Push the stalk towards position ( 2) for The windshield wipers operate for on the windshield.
+The windshield wipers operate for 3 cycles after the lever is released and 1 more cycle after 5 seconds.
+Rear Windshield / 108 DASHBOARD AND FEATURES NOTE Rear wiper stop working as long as tailgate is found open.
+WARNING If you operate wash and wipe function for more than 15 seconds the controller cuts off the supply to Washer motors to avoid overheating.
+Wiper and Washer Switch T u r n 129 DASHBOARD AND FEATURES 2.
+Tail gate opening Reverse Park Assist (if equipped) 3.
+Tail gate opening 110 Reverse park when you engage reverse gear with a assist simultaneous beep sound.
+Door lock/Unlock of the beep keeps on system gets activated 131 DASHBOARD AND FEATURES Front Fog Lamps (if equipped) Front fog lamp is located on front bumper.
+In conditions where visibility is poor due to fog, s now or rain, the fog lamps improve visibility as other road users to see you.
+133 112 DASHBOARD AND FEATURES DASHBOARD AND FEATURES 3.
+Mute / phone reject T o r e j e c t o r h a n g u p a p h 114 DASHBOARD AND FEATURES o n 115 For m DASHBOARD AND FEATURES e call.
+It is also used to mute the volume of music system / radio.
+Phone receive / PTT (Push to Talk) This button is used to accept incoming call when a cell phone is connected via Bluetooth.
+Voice Recognition To activate, long press the voice activation button provided on the steering wheel.
+The system mutes/ pauses the currently played audio and you will hear a beep sound to indicate the activation of the voice recognition feature.
+The system also display the icon on the right top corner of the screen to indicate activation of voice recognition.
+NOTE NOTE For more information on steering wheel switches refer Infotainment manual.
+((Re http )if ap DASHBOARD AND FEATURES 137 116 DASHBOARD AND FEATURES 138 DASHBOARD AND FEATURES 139 NOTE Use of inappropriate electrical accessories can cause damage to your vehicle s electrical system.
+Make sure that any electrical accessories you use are designed to plug into this type of socket and rating.
+This helps settling in the seat Roof Grab Handle and inserting the key in the ignition On center console Behind rear seat on LH side Antenn Option Antenna tenna a DASHBOARD AND FEATURES 141 Roof grab handles are provided on all DASHBOARD AND FEATURES 142 the lamp goes  OFF  immediately.
+OFF - In this position, the lamp will remain  OFF .
+This helps in comfortable positioning of passengers during a journey.
+Boot Lamp (if equipped) Lamp Condensation / Fogging Condition Condensation is a natural phenomenon in Lamp.
+During normal condensation, thin film of mist is visible on the inside surface of the exterior lens.
+Generall y, this condition is considered normal and can be eliminated by turning on the headlamp with engine running or luggage compartment to illuminate the luggage area.
+It will be ON only when tailgate is open.
+Low beam lamp NOTE Headlamp fogging/condensation is natural occurrence and headlamp assembly replacement will not Boot lamp is provided in the rear Head Lamp DASHBOARD AND FEATURES he High-pressure washer jet direct on vent system of lamp are not recommended, there might be ingress water possibility of causing heavy fogging.
+Reverse lamp Option II 125 DASHBOARD AND FEATURES 126 127 STOWAGE AREAS Storage Compartment 98 STOWAGE AREAS STOWAGE AREAS 99 STOWAGE AREAS 1.
+Tailgate Compartment 1) Glove box ii) Glove box illumination (if glove box flap.
+To clos e - Lift glov e box flap until it enga ges.
+iii) Stowage detail (if applicable) applicable) The glove box lamp illuminates when the glove box is opened.
+NOTE Make sure that glove box flap is closed while driving.
+i) Opening and closing To open - Press the knob and open the Following items can be stowage in glow box.
+Owner s manual and other vehicle document 0 10 STOWAGE AREAS 156 2.
+iv) Cooling facility (If applicable) On selected models glove box is provided with a cooling facility.
+It cools the glove box only when the front A/C is ON.
+Shut OFF the vent by rotating the knob, whenever cooling is not required.
+Pen holder STOWAGE AREAS 157 Place for keeping wallet is provided Utility pockets are provided on front above the roof lam p.
+doors and it can be used to keep follow- ing items.
+Umbrella holder Remove the water from umbrella and fold it properly before storing it in umbrella holder.
+NOTE NOTE STOWAGE AREAS 158 Use cups, containers, bottles of right size and which have lids.
+STOWAGE AREAS 159 STOWAGE AREAS 160 STOWAGE AREAS 161 e rear Remove all items and cups before folding the cup holders.
+Use cups, containers, bottles of right size and which have lids.
+STOWAGE AREAS 162 163 STOWAGE AREAS Store the luggage in tailgate compartment.
+165 STOWAGE AREAS 140 167 STOWAGE AREAS WARNING The vehicle occupant would thereby be pushed into the seat belt by the rear bench seat or by the seat backrest.
+The seat belt can no longer offer the intended level of protection and could even cause injuries.
+Objects or loads in the trunk cannot be restrained by the seat backrest.
+Before every trip, make sure that the seat backrests and the rear bench seat/rear seat are engaged and securely latched.
+Luggage cover HOOKS (if applicable) i) Coat Hanger Luggage cover is Coat hanger is provided on rear passenger right side grab designed only for handle.
+WARNING Do not place anything on luggage cover as it could obstruct driver s rear view.
+Also in case of an accident or sudden braking, it could cause an injury to occupants.
+WARNING 169 14 2 The coat hook cannot restrain heavy objects or items of luggage.
+Never hang hard, sharp-edged or fragile objects on the coat hook.
+STOWAGE AREAS iv) Hooks in luggage compartment ii) Hook for Purse holder iii) Collapsible hook These hooks are provided on both sides in luggage Hooks for holding purse are provided on Collapsible hook is compartment for hanging small carry bags carrying up to 3 kg provided 143 STOWAGE AREAS pillar.
+on both B side RH for co-driver of hanging weight only.
+NOTE Do not use the s e hooks for securing luggage like usi ng nets etc.
+144 CLIMATE CONTROL The Climate Control regulates the temperature set in the vehicle interior and filter the dust particles in cabin temperature based on the user set temperature settings.
+Air Distribution- The air is distributed through the vents in the passenger compartment as shown below  CLIMATE CONTROL 114 CLIMATE CONTROL Air vents HVAC Controls (if applicable) 115 CLIMATE CONTROL A.
+Temperature control This is to select the air distribution pat- you tern as described in the table.
+This is to turn   ON  the blower and se- The temperature control knob allows CLIMATE CONTROL Directs air through the center and side air vents 116 lect desired blower speed.
+The temperature can be increased by rotating the knob towards the red segment (clockwise) and decreased by rotating it towards the blue segment (anti-clockwise).
+Directs air through the center, side and foot well vents Directs air through the foot well air vents Directs air through the defroster & foot well vents (Default fresh air mode) Directs air through the defroster vents (Default fresh air mode) CLIMATE CONTROL D.
+Fresh / Recirculation air mode Recirculation mode  (Indicator light   On signals or slow traffic to avoid Press the switch to activate / deactivate air   ON ) traffic pollution.
+Air in the passenger compartment   Maximum cooling is required.
+Fresh Air mode   (Indicator light  OFF ) Always use when  Fresh air is drawn into the vehicle.
+Always use when  Press to   ON  or  OFF  117 CLIMATE CONTROL 180   Discomfort is felt or windows are fogging up.
+Using or air flow modes during demist / defrost.
+AC ON/OFF Press the switch to activate / deactivate the AC.
+The indicator lamp in the button will light up when climate control is activated.
+NOTE The AC can be switched   ON   only if the blower is   ON   and engine is running.
+When AC is switched   ON , engine idling RPM increases marginally to adjust the AC compressor load.
+When desired temperature is achieved AC trips  OFF  automatically.
+CLIMATE CONTROL 181 While starting the vehicle itself after long duration (more than 15 days), following procedure needs to be followed to meet AC performance.
+- Start the vehicle with AC & Blower in OFF condition in idling for 2 3 minutes.
+- Then switch ON the AC & Blower and run it for another 2 3 minutes in idling for proper circulation of refrigerant & oil to lubricate the internal parts of AC system.
+Rear blower will be effective after 5-10 min of front HVAC running (after cabin cooling) CLIMATE CONTROL 182   Condensation may drip from the underside of the vehicle when it is in cooling mode.
+Traces of water on the ground are normal and are not a sign of leakage or malfunction.
+Ventilate the vehicle for a brief period during warm weather.
+This will speed up the cooling process and the desired vehicle interior temperature will be reached quickly.
+Never cover the air vents or air intake grilles in the vehicle interior.
+If the AC is not used for a long period, such as during winter, it may not give the best CLIMATE CONTROL 183 performance when you start using it again.
+Operate the AC at least once a month to maintain optimum performance.
+CLIMATE CONTROL 184 Recommended basic settings of the control elements of air conditioning system for the respective operating modes.
+These may vary depending on individual requirements and weather conditions.
+AC ON / OFF Normal heating or 2nd or 3rd dot Desired temp.
+Switched OFF Quick heating To MAX speed and then 2nd or 3rd dot To the extreme right up to the stop Briefly switch ON to Fresh air mode then Recirculation Switched OFF CLIMATE CONTROL 185 Normal Cooling or 1st to 3rd dot Desired temperature mode Recirculation mode Switched ON Quick Cooling or To MAX speed and then 2nd or 3rd dot To the extreme left up to the stop Recirculation mode Switched ON Demisting 2nd or 3rd dot Desired temperature Fresh air mode (Default) Switched ON (Optional) Defrosting To MAX speed Desired temperature Fresh air mode (Default) Switched ON (Optional) General Description  convenience regardless of outside weather conditions.
+FATC system controls the in-cabin Fully Automatic Temperature 4.
+Rear window demister button temperature of the vehicle automatically and provides maximum passenger CLIMATE CONTROL 186 6.
+Fresh air / recirculation button the display when the AC will be ON.
+Econ (economy mode) button 1 ON / AC .
+OFF Button  Press the AC compressor ON/OFF button to turn the air conditioning ON or OFF.
+AC compressor ON/OFF bu tton D isplay unit CLIMATE CONTROL 187 7.
+Air distribution (mode) button FATC display is shown on infotainment 2.
+FATC functions can be controlled using both the FATC control panel and the touch screen display.
+Whenever the user presses any push button or turns the rotary knob, then the display unit will show the relevant Climate Information.
+Rotate the knob clockwise to increase or Also, when the display is not in climate decrease the blower speed.
+mode then climate information will be displayed on the all-time display provide on the bottom bar.
+Speed 7 speed, where as anti- clockwise would reduce the speed up to  SPEED 1 .
+In  AUTO  mode, the FATC system will regulate the blower speed automatically.
+ECON button CLIMATE CONTROL 188 During ECON AC operation, the system automatically cuts off compressor at a higher temperature than normal AC.
+The operation can be used during mild weather conditions for better fuel efficiency.
+By pressing ECON button text will be displayed on display.
+This button directs the main airflow towards windscreen for faster defrosting.
+(It also overrides any mode selection you may have made.) B.
+When you turn off the button, the system returns to its former settings.
+NOTE For your safety make sure you have a clear view through all the windows before driving.
+This button turns the rear window demister ON or OFF.
+The system will be deactivated after 15 min of continuous operation.
+When the recirculation Button or LED is switched  ON , air from the vehicle s interior is sent throughout the system.
+NOTE The outside air intakes for the climate control systems are at the base of windscreen.
+Keep this area clear from leaves and other debris.
+When the recirculation button is switched  OFF , air is brought in from outside of the vehicle (fresh mode).
+Whenever discomfort is felt, switch to fresh air mode.
+CLIMATE CONTROL The system should be used with recirculation air mode for faster heat up and cool down, however keeping the system in recirculation mode, particularly with AC OFF, can cause the windows fog up.
+Air Distribution (Mode) Button  In AUTO mode, the FATC system will regulate the mode automatically.
+However, user override is possible with the use of MODE button to select the desired airflow mode.
+Each time you press the MODE button, the display shows the mode selected.
+OFF  button  CLIMATE CONTROL Press the OFF button to switch OFF The system.
+heated air that will, as quickly as possible, raise or lower the interior temperature to your preference.
+When you set the temperature to its lower limit ( -) or its upper limit (  ), the system runs at full cooling or heating only.
+Semi-automatic Operation You can manually select various functions of the climate control system when it is in fully automatic mode.
+Auto ON selection button To put the automatic climate control in fully automatic mode  causes the word  AUTO  in the display to go OFF and overridden setting is displayed.
+System will remain in semiautomatic mode till  AUTO  is repressed.
+Temperature control knob  Turning the temperature control knob clockwise increases the temperature of A.
+Set the desired temperature by turning temperature control knob.
+The display will show all the functions during  AUTO  mode.
+The system automatically selects the proper mix of conditioned and / or 191 the air.
+The desired temperature will be increased by steps of 0.5 C.
+User can select temperature range from 18 C to 30 C.
+When you set the temperature to its lower limit ( -) or its upper limit (  ), the system runs at full cooling or heating only.
+HVAC Sensors (if applicable) HVAC system is fitted with three sensors 160 1.
+Solar sensor CLIMATE CONTROL A solar sensor is on top of the dashboard at the right hand side of defroster grill.
+Outside Ambient Temperature (OAT) sensor 193 CLIMATE CONTROL It is located under the front bumper grill.
+Do not cover or spill any liquid on sensors.
+Do not cover sensor, this may cause the sensor to malfunction.
+This may lead to FATC not functioning to desired level.
+If your vehicle is parked under the sun, you can cool it 5.
+down fast by following the steps given below  1.
+Make sure the temperature control is set to maximum cool.
+In case of FATC set temperature to  Low  mode.
+Set the blower to maximum speed Open windows half, set air direction towards face and fresh air mode.
+When the interior has cooled down to a more comfortable level, close windows and set the 16 2 195 controls as required in normal cooling, with recirculation mode ON.
+Functions Control Knob Position Button Position CLIMATE CONTROL (A) (B) (C) (D) (E) (F) (G) (H) Normal Desired Speed Desired Temp.
+OFF ON OFF OFF OFF heating Quick heating Max.
+speed To the extreme right up to the stop OFF ON OFF OFF OFF Normal Cooling Desired speed To the right up to the desired temperature ON Optional OFF OFF ON Quick Cooling Max speed To the extreme left up to the stop ON Optional OFF OFF ON STARTING AND DRIVING Demisting Desired speed To the right up to the desired temperature As desired As desired As desired ON As desired As desired 129 CLIMATE CONTROL Defrosting Max speed To the right up to the desired temperature ON OFF ON OFF OFF 165 130 Pre Driving Checks Make sure that   Windshield, windows, mirrors, lights, and reflectors are clean and unobstructed.
+Tools kit, jack & handle, warning triangle, owner s manual, first aid kit and vehicle documents are available and stored at their locations.
+WARNING Never put any mat on top of the floor carpet near pedal region.
+All doors, engine bonnet and tail gate are securely closed and latched.
+All occupants travelling should always wear seat belts or suitable CRS as applicable.
+Objects, luggage or loads are secured properly against slipping or tipping.
+Daily check   Tyres for abnormal wear, cracks or damage and embedded foreign material such as nails, stones, etc.
+NOTE Water dripping from the air conditioning system after use is normal.
+All lamps, wipers, wiper blades and horn for proper operation.
+All switches, gauges and tell tales are working properly.
+Adjust    Seats, head restraints (if equipped) and steering wheel position.
+Weekly check   Engine oil level   Coolant level   Brake fluid level   Windshield washer fluid level   Battery electrolyte level   Fuel level STARTING AND DRIVING Driving Tips Fuel consumption, engine, transmission, brake and tyre wear are mainly affected by below factors    Operating conditions of your vehicle   Your personal driving style Operating conditions NOTE Tyre pressure to be measured at cold condition.
+Check tyre pressure and condition after every 15days including spare wheel.
+167 STARTING AND DRIVING   Avoid frequent start and stop as these increase fuel consumptions.
+Always make sure that the tyre pressures are correct.
+Regularly service your vehicle and adhere to the recommended service maintenance schedule.
+Personal driving style   Do not depress the accelerator pedal when starting the engine.
+Do not warm up the engine when the vehicle is stationary.
+Always adapt your driving style to suit the prevailing road, weather conditions, and maintain a safe distance from the vehicle in front.
+Select appropriate gear according to varying speeds and load conditions.
+NOTE Do not rest your foot on the clutch pedal while driving.
+Switch  OFF  the engine in stationary traffic or at signals.
+Driving safety systems are merely aids designed to assist driving.
+You are responsible for the distance to the vehicle in front, for vehicle speed and anticipating braking in good time.
+WARNING You could lose control of your vehicle if you try to adjust the driver's seat, head restraint, mirror, steering wheel and fasten the seat belt while Speed (km/h) Gear Diesel Petrol STARTING AND DRIVING 202 1 20 20 2 30 30 3 45 45 4 65 65 5 80 80 6 100 100 driving.
+Recommended fuel economy speeds STARTING AND DRIVING 169 Good driving practices   Slow down before shifting to a lower gear.
+This will help avoiding revving of the engine causing damage.
+Avoid frequent brake application which can cause overheating of brakes.
+Slower the vehicle speed while travelling in cross winds.
+Make sure that vehicle is completely stationary before you attempt to shift in reverse gear.
+You can get extra braking from the engine by shifting to a lower gear.
+This can help you to maintain a safe speed and prevent your brakes from overheating specially while going down a hill.
+Tips for obtaining better fuel efficiency   Always maintain the specified tyre pressure during fuel top-ups and also before a long trip.
+Vehicle running with low tyre pressure will consume more fuel than the one running with specified tyre pressure.
+Get rid of the not in use luggage/stuff lying in the boot etc.
+Regularly inspect your vehicle for any leakages, worn out wires by rat bites etc.
+Always follow periodic & regular service schedule of the vehicle.
+Gurgaon, Jaisalmer etc.), do get the air filter cleaned every 5000 kms.
+Do not accelerate excessively when you are in lower gears ( 1st or 2nd).
+Be gentle on the accelerator when you are in traffic.
+In lower gear, opening more throttle will shoot the engine RPM keeping the vehicle still at lower speeds STARTING AND DRIVING 204 which indirectly implies less distance with more fuel.
+Be in the maximum possible higher gear at a given speed.
+This reduces the engine operating speeds which means the engine is running at lower rpm (Revolutions per Minute) for the same vehicle speed.
+Lesser the number of engine revolution lesser the fuel burned.
+Maintain healthy driving habits & while decelerating, do coasting in gear and not in neutral or with clutch pedal depressed.
+Consider using the car AC when you really require.
+Consider using lower blower speeds rather than higher for cooling as at higher blower speeds it consumes more electric power which is ultimately drawn from engine by burning fuel.
+Switch  OFF  the engine at the traffic signal only if the stoppage time is high (typically more than 30 sec).
+The more you open the windows the higher will be the resistance to the vehicle at higher speeds which will reduce the fuel efficiency.
+More the speed, higher the external resistance on the vehicle which will finally result into unnecessary consumption of fuel.
+Running-in period The more you look after the engine when it is new, the more satisfied you will be with its performance in the future.
+Avoid rapid acceleration and prolonged high speed running of the engine for the first 1,500   1,800 kms.
+Do not exceed the following road speeds during running in period.
+Gear Diesel Petrol Speed(km/h) Speed(km/h) 1 20 20 2 35 35 STARTING AND DRIVING Avoid heavy loads, e.g.
+171 Seat Adjustments Front seat adjustments 6 120 120 3 55 55 4 75 75 5 95 95 NOTE Avoid excessive revving up of engine rpm.
+Do not keep engine at idling for long duration.
+Adjusting the seat while driving could cause the driver to lose control of the vehicle.
+NOTE Adjust the seat backrest until your arms are slightly angled when holding the steering wheel.
+Seat backrest angle adjustment To change the seat back rest angle, lean forward slightly and pull up the lever ( 1).
+Adjust seat backrest until it reaches desired comfortable position.
+Make sure that lever returns to its original position and seat is securely latched.
+Seat forward / rearward adjustment lever WARNING slide under the seat belt in a collision.
+Seat height adjustment (If equipped ) To raise the seat, pull and continue pumping the lever ( 2) in the upward direction until the seat is at the desired height.
+To lower the seat, pump the lever downward until the seat is at desired height.
+Seat forward / rearward adjustment Lift lever ( 3) and slide the seat forwards or rearwards.
+Neve with exce this NOTE Following seat adjustments can be carried out manually.
+STARTING AND DRIVING Release lever and make sure that seat is securely latched.
+Adjust the driver seat position in such a way that the driver will be able to operate the control pedals conformably.
+STARTING AND DRIVING 208 173 STARTING AND DRIVING STARTING AND DRIVING 210 back of the head at eye level.
+This will reduce the potential for injury to the head 174 Rear View Mirrors Inside Rear View Mirror (IRVM) To adjust the mirror move the mirror up, down or sideways manually to obtain the best rear view.
+When driving at night, set the selector tab to select anti-glare mode to reduce glare from the headlights of vehicles behind you.
+NOTE Objects visible in mirror are actually closer than they appear.
+Always make sure of the actual distance from the road users traveling behind by glancing over your shoulder.
+Motorized outer rear view mirrors NOTE STARTING AND DRIVING Use antiglare position only when necessary, as it reduces rear view clarity.
+Outer Rear View Mirrors (ORVM) You can adjust the outer rear view mirrors manually by joy stick or remotely by knob.
+Adjust the outside rear view mirrors to desired position.
+The switch to adjust the motorized mirrors is located on the driver s door.
+You can adjust the mirrors when the ignition switch is in the  ACC  or  ON  position.
+Auto folding (if equipped) To fold / unfold the ORVMs, keep the Selector switch in center position (i.e.
+neith er  L  nor  R, position) and then toggle down.
+137 ( I f equipped) STARTING AND DRIVING Vanity mirror is provided on the back of the front passenger side sun visor.
+STARTING AND DRIVING 214 Electrical Power Assisted Steering (EPAS) (if equipped) Your vehicle is equipped with electric power assisted steering system.
+The EPAS system assist you to steer the vehicle.
+If th e engine is  OFF  or if the EPAS system becomes inoperative, the vehicle still can be steered with more steering effort.
+STARTING AND DRIVING NOTE STARTING AND DRIVING 216 STARTING AND DRIVING The following symptoms may occur during normal vehicle operation    The EPAS warning light does not illuminate.
+The steering effort can suddenly increase, if the operation of the EPAS system is stopped to prevent serious accidents when it detects malfunction of the EPAS system during selfdiagnosis.
+This occur to prevent internal overheating and permanent damage to steering system   A click noise may be heard from the EPAS relay after the ignition switch is turned ON or OFF position.
+STARTING AND DRIVING 218 In EPAS system, the steering effort becomes heavier as the vehicle speed increases and becomes lighter as the vehicle speed decreases for better control of the vehicle at different vehicle speeds.
+This EPAS system is equipped with the following assist features 1.
+If this happens, turn the steering wheel to the right or left slightly to unlock the steering wheel while turning the ignition key or pressing engine start/stop button WARNING   Motor noise may be heard when the vehicle is at low driving speed.
+The steering wheel may not unlock normally in some cases when ignition key turned  ON  or STARTING AND DRIVING Steering wheel adjustment STARTING AND DRIVING 220 You can adjust the steering wheel position to suit your convenience.
+The release lever is located under the steering column.
+Push release lever completely down to unlock the steering column.
+the as If the EPAS system does not operate normally, the warning light will illuminate on instrument cluster.
+The steering wheel rotation may become difficult to control or operate.
+Then take your vehicle to an authorized TATA dealer and have the EPAS system checked as soon possible.
+Pull release lever up completely to lock the steering column.
+Make sure that steering wheel is securely locked by checking up and down direction.
+NOTE When adjusting the steering wheel, make sure that  You can operate control pedals without any obstacles.
+You can see all the displays in the instrument cluster clearly.
+STARTING AND DRIVING Steering lock cum ignition switch STARTING AND DRIVING To release the steering lock, insert the key and turn it clockwise to one of the other positions.
+ACC - Accessories such as the infotainment system can be operated, but the engine remains  OFF .
+START - Turn the key further clockwise to the START position, (spring loaded) to start the engine.
+As s oon as the engine starts, release the ignition key, which The ignition switch has the following four positions  LOCK - This is the normal parking position.
+Key from lock can be removed in this position only.
+L O CWARNING Before starting off, make sure the steering wheel position is locked.
+Never unlock or adjust the steering wheel while the vehicle is in motion.
+( If applicable ) K  position prevents normal use of the steering wheel after the key is removed.
+While cranking, all accessories will be momentarily  OFF  .
+Illuminated Key Ring (if equipped) When the vehicle is unlocked, the illuminated key ring glows up.
+This helps to locate ignition switch in the dark.
+141 Starting and stopping (without PEP S) Man ual Tran smis sion ( M T) S t a r t i n g t h e E n g i n e M a k e s u r e t h a t p a r k i n g b r a k e i s en g a g e d a n d v e h i c l e i s i n n e u t r a l g e a r .
+D e p r e s s t h e c l ut c h p e d a l f u l l y a n d c r a n k t h e e n g i n e .
+D o n o t p r e s s t h e a cc e l e r a t o r p e d a l w h e n s t a r t i n g t h e e n g i n e .
+Rele ase the key as soon as the engine s t a r t s .
+R e p e a t i f e n g i n e d oes not start.
+NOTE The St switch e continuo than After 10 the keyidle spe wait for Do no while s damag The e exhaust monoxid gases le a risk never le enclose ventilati STARTING AND DRIVING The Starter protection system fitted in this vehicle does not allow you to crank the engine until you fully depress the clutch pedal.
+Starting off After releasing the parking brake, Stopping the vehicle To start off, depress the clutch pedal Turn the key to  ACC  position to gradually release the clutch and slowly Gear Shifting and Driving switch off the engine.
+Before switching off the engine, run the fully and shift into 1st gear.
+press the engine in idle condition for at accelerator.
+This will allow the engine oil to lubricate the turbocharger, till its speed is fully reduced and also allow the unit to cool down.
+WARNING 186 NOTE pressed A quick burst on the accelerator before turning off the engine serves absolutely no practical purpose, it wastes fuel and can damage turbocharger.
+143 STARTING AND DRIVING The gearshift pattern is as shown on the gear lever knob.
+Gear shifting should always be done with clutch pedal NOTE   Gear recommendation is dis- played when the clutch pedal is in fully released position.
+If  F  is displayed in DIS of instrument cluster, it means  Fault  condition.
+WARNING Do not switch the engine off when it is running at high speed.
+STARTING AND DRIVING WARNING Do not switch off the ignition while driving.
+If you switch off the ignition while driving, safety-relevant functions are only available with limitations, or not at all.
+This could affect the power steering and the brake boosting effect.
+You will require considerably more effort to steer and brake.
+Reverse gear STARTING AND DRIVING 144 Braking Your vehicle has power assisted brakes.
+The distance needed to bring the vehicle to a halt increases with the speed of the vehicle.
+Start applying brake anticipating the distance and slow down gradually.
+WARNING NOTE Depress the clutch fully when gear shifting.
+The reverse gear should be engaged only when the vehicle is stationary.
+Wait for 5 seconds after declutching to ensure smooth engagement of the reverse gear.
+Do not depress clutch pedal while driving the vehicle or when stationary on a slope.
+When vehicle is in ACC/IGN/RUN mode and user does any door state transition including tailgate and if PEPS does not detect smart key inside the vehicle when last door including tailgate is closed, then audio warning chime comes ON.
+For engaging reverse gear, lift the latch and keeping latch lifted, shift to reverse Never use the brake pedal as a footrest.
+If you rest your foot on the brake pedal while driving, the braking system can overheat.
+This increases the stopping distance and can even cause the braking system to fail.
+STARTING AND DRIVING 190 N e v e r depress the brake pedal and the accelerator pedal at the same time.
+If you have driven for a long time in heavy rain without braking, there may be a delayed reaction from the brakes when braking for the first time.
+This may also occur after the vehicle has been washed.
+Brake performance may become poor and unpredictable if brakes are wet.
+After driving through water or washing the underside of the vehicle, test the brakes while driving at a slow speed to see if they have maintained their normal effectiveness.
+If the brakes are less ef- fective than normal, dry them by repeatedly applying the brakes while driving slowly until the brakes have regained their normal effectiveness.
+145 Braking on downhill gradients reduce the load on the brakes by shifting early to a lower gear.
+This allows you to On long and steep gradients, you must WARNING Do not shift to lower gear on a slippery road surface in an attempt to increase the engine's braking effect, the drive wheels could lose their grip.
+There is an increased danger of skidding and accidents.
+take advantage of the engine braking effect and helps avoid overheating and excessive wear of the brakes.
+Automated Manual Transmission Transmission (AMT) Gearbox offers a (AMT) (If fitted) choice of three driving modes  1.
+Automated mode with the gear lever in position  A  2.
+Manual mode with the gear lever in position  M  .
+Crank to start the engine with the brake pedal still pressed.
+If push button is pressed with brake pedal is pressed and gear is in A mode, the vehicle will not start.
+W h i l e t h e b r a k e p e d a l i s p r e s s e d , b r i n g t h e s h i f t e r l e v e r t o N e u t r a l - ' N ' .
+STARTING AND DRIVING 238 start within 10 seconds if gear shifter is moved from A to N with the brake pedal continuously pressed.
+Stopping The vehicle can be stopped by depressing the brake pedal regardless of the gear position.
+This is because the clutch is automatically disengaged to prevent the engine from stalling.
+Gear shifter driving Modes  If the gearshift lever is in the  A  position, the gear will be downshifted to   1st  when the vehicle stops.
+Also, if the STARTING AND DRIVING gearshift lever is in the  M  position, the gear will be downshifted to   1st  when the vehicle stops.
+Reverse  Auto Mode  147  Auto  mode will give optimum engine Torque and Power output.
+Drive the vehicle in  Auto  mode to get max fuel economy.
+Exhaust fan in the engine compartment will remain 'ON' for a short while after IGN is switched 'OFF'.
+This Reverse gear will be engaged only when Auto mode will be engaged only when vevehicle is stationary and brake pedal hicle is stationary and brake pedal will be indicated on instrument pressed.
+WARNING Neutral  STARTING AND DRIVING 240 Always make sure to keep the gear shift lever in the  N  position, when the engine is running and vehicle is stationary.
+Manual Mode  Shift gear lever to left for engaging manual mode.
+An audio signal indicates when manual mode is engaged.
+In manual mode, driver should select the desired gear by shifting lever to,   Upshift the gears.
+Push the gearshift lever to the   direction and release it.
+Every time the lever is operated, upshifting takes place 1 step in the order of 1st   2nd 3rd  4th  5th  6th gear.
+Pull the gearshift lever to the   direction and release it.
+Every time the lever is operated, downshifting takes place in the order  6th 5th   4th  3rd  2nd  1st gear.
+NOTE Down shifting of gear occurs automatically while braking/engine rpm reduction.
+Do not shift the lever in  N  position, even momentarily, when the vehicle is in motion.
+In manual mode, gears are not shifted automatically unless the engine RPM threshold is reached.
+Creeping feature Creeping function allows the car movement without accelerator Pedal pressed when the brake pedal is released.
+This functionality is generally used in parking maneuvers, with 1st or  R  gear engaged, in this situations the driver enters and exits from creeping just by pressing the Acc.
+NOTE 149 Creeping function will not operate when vehicle is in standstill condition on inclined surface.
+Creep feature is enabled for Manual as well as Auto Mode for first and reverse gear.
+After vehicle cranking and brake pedal released vehicle starts moving without pressing accelerator Pedal.
+Whenever accelerator pedal is pressed creep function will be disabled.
+Whenever driver door is opened and / or parking brake is engaged, creep function will be disabled.
+Kick down feature In Automatic mode, while driving at a constant speed if the accelerator pedal is quickly pressed the AMT downshifts the gear (if required).
+It ensures optimum acceleration to complete overtaking in minimal time.
+With the engine running and brake pedal pressed, depending on your requirement shift the lever on R, D or M.
+Check the position engaged on the Instrument Cluster display.
+Release the brake pedal and press the accelerator pedal gently.
+NOTE Use right foot only to operate brake or accelerator pedal.
+Do not use your left leg to operate the pedals while driving AMT vehicle.
+Gear Upshift and Downshift will be done automatically while driving.
+STARTING AND DRIVING 242 NOTE If displayed on the Instrument Cluster display, it means  Fault condition.
+The vehicle can be parked with the gearshift lever in any position.
+Depress the brake pedal and shift the gearshift lever to the  R  position on a downhill slope, or to the Auto  A  mode or the  M  position in the manual  M  mode on an uphill slope or flat road and confirm the gear position by checking the gear position indicator on instrument cluster.
+Gear WARNING A quick burst on the accelerator before turning off the engine serves absolutely no practical WARNIN G Following steps n eed to be carried out engagement (R or A) can be done with ignition ON/engine running condition only.
+STARTING AND DRIVING purpose, it wastes fuel and is sequentially in order to manoeuvre 3.
+Turn the condition for at least 30 seconds damaging Do not switch the specially engine off when to the vehicle in such a situation.
+This will allow turbocharged enit is running at high speed.
+the gear shift lever to Neutral position position to the engine oil to lubricate the lead to premature turbocharger turbocharger, till its speed is fully and switch the ignition off.
+Before reduced and also allow the unit to 2.
+Press the brake pedal and crank switching off the cool down.
+With the engine running, shift the engine in idle The AMT vehicle will shift itself into gear position in Neutral as a precautionary measure, Auto mode.
+March the vehicle with low input STARTING AND DRIVING 244 if the vehicle is stationary and one or from the accelerator pedal as both of the front wheels spin on a low this will ensure that the wheels friction surface (eg.
+AMT symbol will glow in the instrument cluster indicating an Driving (MT) intervention from the Transmission Control Unit.
+Climbing Sharp Gradients on Loose Surfaces Start off smoothly in a suitable gear.
+Accelerate smoothly so that there is no loss of traction by over- revving of the engine.
+Choose as smooth a slope as possible and select the appropriate gear so that gear changing in the middle of the climb is not required.
+Changing gears in the middle of the climb can cause loss of momentum and engine stalling.
+Shifting to lower gear has to be done cautiously to avoid loss of traction.
+Under no conditions should the vehicle be moved diagonally across a hill.
+The danger is in loss of traction and sideways slippage, possibly resulting in toppling over.
+If unavoidable, choose as mild an angle as possible and keep the vehicle moving.
+If the wheels start to slip within few feet of the end of the climb, motion can be maintained by swinging the steered wheels left and right, thereby providing increased grip.
+If the vehicle stalls or losses headway while climbing a steep hill, make a quick shift to reverse and allow the vehicle to move back with the control of engine compression.
+151 Descending Sharp Gradients Depending on the severity of the engine braking judiciously without gradient, shift into appropriate gear.
+Brake STARTING AND DRIVING application under such situations should be done very.
+WARNING When descending on sharp gradients, NEVER turn the ignition key to the  OFF  position.
+NOTE The engine can only be started when the gearshift lever is in  N  position with the brake pedal firmly pressed.
+Driving (AMT) Climbing Sharp Gradients Apply the parking brake firmly so that the vehicle does not roll backwards.
+198 Shift the gearshift lever to the  A  This could cause the brakes to position while depressing the brake overheat, resulting in reduced pedal.
+Failure to take indicator in the instrument cluster this precaution could result in loss displays   1st  gear.
+Release the brake pedal and depress the accelerator pedal gradually, and when the vehicle starts to move, release the parking brake and depress the accelerator pedal to start off.
+On climbing sharp gradients, never hold the vehicle at a stop using only the accelerator pedal or the creeping function.
+If you perform this operation for a certain period of time, this can also cause excessive damage to the clutch.
+Descending Sharp Gradients Depress the brake pedal and shift the gear shift lever to the   A  position.
+Make sure that the gear position indicator in the instrumental cluster displays   1st  gear.
+Release the brake pedal and depress the accelerator pedal slowly.
+Even if the accelerator pedal is not depressed, the clutch will be engaged when the vehicle WARNING speed increases.
+Try not to hold the brake pedal down too long or too often while going down a steep or long hill.
+STARTING AND DRIVING When descending on sharp gradients, NEVER turn the ignition key to the  OFF  position.
+WARNING STARTING AND DRIVING 153 200 STARTING AND DRIVING ( m STARTING AND DRIVING   Starting and stopping (PEPS) if equipped) Engine Passive Start/Stop NOTE 154 A Start Stop Switch (SSSW) or Push to e p t y a n d v e h i c l e   If Smart key is inside the vehicle and on pressing start stop switch, if start stop switch green LED blink for 10 sec.
+duration then rotate steering wheel and simultaneously press start stop switch again.
+If smart key is inside the vehicle and on pressing start stop switch, if start stop switch green LED blinks more than 10 sec.
+If ESCL (Electronic Column Steering Lock) is not unlocked properly, then vehicle doesn t go into ACC mode Start/Stop switch is provided on the dashboard towards the left side of steering wheel.
+Backup start  Start / Stop Switch If smart key battery voltage is low or i s i n O 202 F F mode then Start Button is a main component of Pasto start the engine user needs to press sive (Engine) Start and Stop system.
+It is start/stop button two times with interval used to control ACC, IGN outputs as well of 2.5 sec.
+between two switch press afas to start and stop the engine.
+ter pressing the clutch pedal (Non AMT) OR brake pedal (AMT) with valid smart key near Immobilizer antenna (below head unit).
+Emergency start  If Vehicle Engine is switched from ON to OFF and Start Stop button is pressed with clutch press (Non AMT) OR with brake press (AMT) within 5 sec, Engine gets crank.
+NOTE Two Step Start  a) Engine will remain OFF and all electrical equipment and infotainment system Step 1 can be used.
+Bring the smart key with you and sit in the b) Step 2 STARTING AND DRIVING If ESCL (Electronic Column Steering Lock) is not unlocked properly, then Engine will not get cranked.
+Bring the smart key with you and sit in the driver seat.
+Press the clutch pedal and then press the start-stop switch.
+Once engine started successfully, green colour LED on startstop switch remains ON.
+Once engine start successfully, green colour LED on startstop switch will remain ON Three Step Start  a) Step 1 driver seat.
+Press the start-stop switch without pressing start-stop switch to start the engine.
+Pressing the smart key with you and sit clutch pedal.
+Green colour LED on start-stop switch in the driver seat.
+Press the start-stop switch without pressing clutch pedal turns ON.
+Amber colour LED on start-stop switch turn ON 4.
+Limited display on instrument cluster will be ON and steering will be unlocked.
+Press the start-stop switch without pressing clutch pedal again 2.
+Green colour LED on start-stop switch turn ON 3.
+Engine will remain OFF and all electrical equipment and infotainment system can be used.
+Press the clutch pedal and then press start-stop switch to start the engine.
+Once engine started successfully, green colour LED on startstop switch will remain ON.
+Option I 204 155 Passive Stop / OFF -Single Press Stop    Amber colour LED on start-stop IGN is ON and engine is running.
+Customer presses start-stop switch with or without clutch (MT) / brake (AT / AMT).
+Option II Emergency stop / OFF -Single Long Press Stop    IGN is ON and engine is running PEPS - Wearable Key (If applicable)   Vehicle is in running condition i.e.
+Introduction    WARNING When vehicle is in OFF mode ( ACC , IGN and Crank OFF) and user tries to lock the vehicle from outside by pressing any door handle switch and if PEPS detect smart key left inside the vehicle, then audio warning / chime comes ON.
+Customer does long press of startstop It s New Gen Technology which will switch i.e.
+pressed for more than 3 create wow factor among customers and first to introduce in Indian Market.
+seconds Provide an innovative form factor for car   IGN relay turns OFF, ACC relay remains ON.
+Customer can wear it in his/her wrist and drive the car (ease of carrying and usage) This shall perform dual functions of Passive entry/exit and Passive start (similar functions of UID)     Protected with IP67 compliance that means dust Tight and Temporary water immersion ( 1m depth for 30min)   Wearable device will work with PEPS vehicle only and it is an add on Device over Smart Key .
+UID (Smart Key ) Wearable Key STARTING AND DRIVING PEPS Features (a) Passive Entry Entry in Vehicle through Driver Door    258 206 STARTING AND DRIVING   260   Customer reaches to driver door Customer presses driver door handle switch along with valid wearable within authentication range approx.
+Tailgate Opening of vehicle    Customer reaches to tailgate   Customer presses tailgate handle switch along with valid wearable within authentication range of 1.2m Wearable Key through Driver Door   Customer finishes the driving and Ignition is made OFF Tailgate switch ( b) Passive Exit Exit from Vehicle 207 STARTING AND DRIVING   Customer will come-out from vehicle and close driver door   Customer presses driver door handle switch along with valid wearable within authentication range of 1.2m   Vehicle get locked Wearable Key (c) Passive Start and Stop Three Step Successful Start    Customer enters into car Customer presses the start-stop switch without clutch (MT) or brake (AT / AMT)   ACC relay turns ON with ESCL unlocked successfully   Next start-stop switch press without clutch (MT) or brake (AT / AMT)   ACC and IGN relay turns ON   Third start-stop switch press along with cutch (MT) or brake (AT / AMT)   ACC relay turns OFF, IGN and CRANK relay turns ON   Once engine started successfully, CRANK relay turns OFF, ACC and IGN relay remains ON.
+Two Step Successful Start    Customer enters the car   262   Customer presses the start-stop switch without clutch (MT) or brake (AT / AMT)   ACC relay turns ON with ESCL unlocked successfully   Next start-stop switch press along with cutch (MT) or brake (AT / AMT)   ACC relay turns OFF, IGN and CRANK relay turns ON   Once engine started successfully, CRANK relay turns OFF, ACC and IGN relay remains ON.
+Single Step Successful Start  STARTING AND DRIVING   Customer enter the car   ACC relay turns ON with ESCL   Once engine started successfully,   Customer presses the start-stop unlocked successfully CRANK relay turns OFF, ACC an d IGN switch along with cutch (MT) or brake   Immediately after 100ms ACC relay relay remains ON (AT / AMT) turns OFF, IGN and CRANK relay turns ON.
+3 times with valid wearable and if passive entry is not working it 209 STARTING AND DRIVING means wearable battery is low.
+As standby he can use Smart Key (UID) or emergency key for entry Customer to contact nearby dealer service station for battery replacement Battery Specifications Lithium Battery CR 1632 Voltage 3V Make  Panasonic, Renata Emergency Start  How do customer understand Battery of W e a r a b l e l o w ?
+I f w e a r aNOTE Battery life 10 month or 25000 PKE cycles (whichever is earlier)     or       Battery Replacement Procedure   264 ble battery is low or drained, customer can notice through   How do   If customer press the driver door customer understand that battery is handle switch or tailgate switch 2- low  section above   In this condition customer has to keep  Wearable  near Center console antenna (within 7 cm)   Press the start-stop switch twice within 10 sec along with clutch (MT) or brake (AT / AMT)   Engine will crank and customer can drive the car How to replace Battery of Wearable?
+Unscrew 4 screw from back side of wearable   Remove back-cover   Remove battery from wearable   Place new battery   Put back cover and screw it with 4 screw STARTING AND DRIVING The Starter protection system switches off the starter when it is continuously cranked for more than 10 secs.
+In such a case, get the key back to  OFF  position & wait for 30 secs.
+WARNING The engine emits poisonous exhaust gases such as carbon monoxide.
+Therefore, never leave the engine running in enclosed spaces without sufficient ventilation.
+NOTE After starting, run the engine in idle speed for at least 30 seconds.
+Do not press accelerated pedal while starting the engine to avoid damage to turbocharger.
+NOTE 266 Fig.1 Fig.2 Manual Transmission (MT) Starting the Engine Make sure that parking brake is engaged and vehicle is in neutral gear.
+Depress the clutch pedal fully and crank the engine.
+Do not press the accelerator pedal when starting the engine.
+Release the key as soon as the engine starts.
+Starting off To start off, depress the clutch pedal fully and shift into 1st gear.
+After releasing the parking brake, gradually release the clutch and slowly press the accelerator.
+NOTE NOTE 211 The Starter protection system fitted in this vehicle does not allow you to crank the engine until you fully depress the clutch pedal.
+When shifting or starting off, do not race the engine.
+Racing the engine can shorten engine life and affect smooth shifting.
+Stopping the vehicle Turn the key to  ACC  position to switch off the engine.
+Before switching off the engine, run the engine in idle condition for at least 30 seconds and then switch off.
+This will allow the engine oil to lubricate the turbocharger, till its speed is fully reduced and also allow the unit to cool down.
+WARNING A quick burst on the accelerator before turning off the engine serves absolutely no practical purpose, it wastes fuel and can damage turbocharger.
+268 Gear Shifting STARTING AND DRIVING The gearshift pattern is as shown on the 213 NOTE Depress the clutch fully when gear shifting.
+The reverse gear should be engaged only when the vehicle is stationary.
+Wait for 5 seconds after declutching to ensure smooth engagement of the reverse gear.
+Do not depress clutch pedal while driving the vehicle or when stationary on a slope.
+When vehicle is in ACC/IGN/RUN mode and user does any door state transition including tailgate and if PEPS does not detect smart key inside the vehicle when last door including tailgate is closed, then audio warning chime comes ON.
+214 S TARTING AND DRIVING STARTING AND DRIVIN G WARNING Gear recommendation is dis- played when the clutch pedal is in fully released position.
+If  F  is displayed in DIS of instrument cluster, it means  Fault  condition.
+If you switch off the ignition while driving, safety-relevant functions are only available with limitations, or not at all.
+This could affect the power steering and the brake boosting effect.
+You will require considerably more effort to steer and brake.
+WARNING Do not switch the engine off when it is running at high speed.
+Gear shifting should always be done with clutch pedal pressed.
+STARTING AND DRIVING 272 215 Reverse gear STARTING AND DRIVING The distance needed to bring the vehicle to a halt increases with the speed of the vehicle.
+Start applying brake anticipating the distance and slow down gradually.
+If the brakes are less effective than For engaging reverse gear, lift the latch and keeping latch lifted, shift to reverse position.
+normal, dry them by repeatedly applying the brakes while driving slowly until the brakes have regained their normal effectiveness.
+Braking on downhill gradients On long and steep gradients, you must reduce the load on the brakes by shifting early to a lower gear.
+This allows you to take advantage of the engine braking effect and helps avoid overheating and excessive wear of the brakes.
+WARNING Never use the brake pedal as a footrest.
+If you rest your foot on the brake pedal while driving, the braking system can overheat.
+This increases the stopping distance and can even cause the braking system to fail.
+Never depress the brake pedal and the accelerator pedal at the same time.
+WARNING Do not shift to lower gear on a slippery road surface in an attempt to increase the engine's braking effect, the drive wheels could lose their grip.
+There is an increased danger of skidding and accidents.
+STARTING AND DRIVING 274 If you have driven for a long time in heavy rain without braking, there may be a delayed reaction from the brakes when b his may also occur after the vehicle has been r washed.
+a k 163 i Brake performance may become poor and unpredictable if brakes are wet.
+n A g f t e r d f r o i v r i n g t h t r o u g h w a h t e er or washing the underside of the vehicle, test f the brakes while driving at i r s t t i m e .
+T STARTING AND DRIVING 276  ECO  ,  CITY  and  SPORT  drive modes are provided.
+These modes can be used to adjust engine characteristics and vehicle performance in line with desired requirement.
+a slow speed to Drive Mode ( if equipped ) STARTING AND DRIVING Current gear indication The Driver Information display (DIS) in the Instrument Cluster indicates the cur- To apply the parking brake, pull the lever rent gear position engaged.
+The brakes tell tale Gear recommendation illuminates on the instrument cluster.
+Drive mode selection switch is provided on center console for Parking brake applied activation Parking Brake will be displayed in DIS, recommending Mechanical parking brake acting on the whenever gear should be shifted to up or down.
+Drive Mode Performance CITY Increased engine Torque and Power output for BALANCED performance ECO Optimum engine Torque and Power output for FUEL EFFICIENT performance SPORT Produce more torque from engine.
+parking Up or down arrow rear wheels is provided on the vehicle .
+STARTING AND DRIVING 278 165 Mechanical parking brake acting only on the rear wheels is provided on the vehicle.
+To apply the parking brake, pull the lever up fully.
+The parking brakes telltale illuminates on the instrument cluster.
+To release it, pull the lever up slightly, press the release button and push the lever down.
+Parking brakes tell- tale on the instrument cluster will turn  OFF  when the lever is fully released.
+Vehicle parking Parking brake released Park the To release it, pull the lever up slightly ( 1), Switch on the indicator signal before NOTE When parking on a downhill gradient, place the gear lever in  Reverse  position.
+While parking on uphill gradient, place the gear lever in the   1st  position.
+WARNING Never leave children unsupervised in the parked vehicle.
+There is a risk of an accident and injury.
+STARTING AND DRIVING press the release button ( 2) and push turning to park.
+tale on the instrument cluster will turn Ensure that all window glasses are  OFF  when the lever is fully released.
+At night, put on the parking lights if required.
+Remove the key from the ignition switch and lock the vehicle.
+Block the wheel if parked on a slope Reverse Park Assist with pets and elderly people moving sensor (if equipped) around the vehicle.
+Reverse Park Assist system is an electronic parking aid that will assist you to park your vehicle safely when in reverse gear mode.
+It provides audio and visual information through the vehicles infotainment system.
+Always look at surrounding before initiating reverse parking, for kids, Do not use parking brake for braking unless unavoidable circumstances like when service brake is not working properly.
+The braking distance is considerably longer and the wheels could lock.
+There is an increased danger of skidding and accidents.
+NOTE Apply the parking brake properly before leaving the vehicle and release it before moving.
+ST A RT IN G A N D D RI VI N G 280 16 7 In Low variants, only audio warning shall be given through a buzzer.
+While the Reverse Park Assist system activated, audio buzzer will be played within first two seconds to indicate the proper functioning of the system.
+After these two seconds, normal functioning of the system will continue.
+If no audio buzzer is heard for first two seconds, it mean that RPAS system is faulty.
+Please take the vehicle to a TATA MOTORS There are 4/3 ultrasonic sensors authorized service outlet.
+Once the system is activated, the sensors will detect the proximity of an obstacle from the bumper, and this information would be displayed on the vehicles infotainment system.
+Park assist indications In case of Reverse park assist system malfunctions, the following screen may appear on the infotainment system.
+Park Assist Controller / Body Control Module Failure" b.
+Partner components such as Infotainment music system, Instrument Cluster failure.
+WARNING 0 to 25 cm obstacle detection performance is not guaranteed due to ultrasonic sensor technology limitation.
+STARTING AND DRIVING 282 Reverse park assist limitations Reverse Park Assist system is not a collision avoiding system.
+It is solely the driver s responsibility to park the vehicle safely.
+Reverse Park Assist feature works on ultra sound echo technology, due to which performance is not guaranteed in following scenarios    If the object has a sharp edge surface, where surface may divert echoes from sensor reception.
+If object is mesh fence made up of thin wires, where echoes can t be given by the surface.
+Fast moving objects passes in the sensor field of detection, where echoes are not processed by the system.
+If object is made/covered by foam or sponge or snow where ultrasonic sound signals are absorbed.
+Objects close to the rear bumper can go undetected by the Reverse Park Assist field of detection.
+Driver should use extreme caution while parking the vehicle.
+If height of the bumper is changed due to alteration to the suspension or other causes   If the sensor areas are extremely hot from direct sunlight or cold due to freezing weather.
+If Sensors are covered by a hand, sticker, accessory, etc.
+If ultrasonic noise is present around Vehicle due to other vehicle sensors, horn, engine, air braking system (large vehicles), Exhaust Fans, Wireless transmitters or mobile phones   If the vehicle speed exceeds 10 km/h, the system will not warn you even though objects are detected, error STARTING AND DRIVING message 'Vehicle Speed is high, drive slowly!' will appear.
+STARTING AND DRIVING   Driving on uneven road surfaces e.g.
+WARNING Due to any reason, if the sensor gets misaligned or loses its intended fitment position, contact your dealer for refitment.
+NOTE Turning the ignition  OFF   while the Park assist feature in running would disable the feature.
+Regularly clean the Sensors/camera  ( if equipped) and keep them free from dust, ice, mud, water, chewing gum etc.
+Do not use water at high pressure for cleaning the sensor or camera.
+Do not cover the Sensors/camera  ( if equipped) surface with any additional fitment.
+STARTING AND DRIVING Understanding Guidelines Indication Green Line Indicates, if rear object is in this colored zone, you have to be cautious.
+Yellow Line Indicates, if rear objects are in this colored zone, you have to take utmost care.
+However, objects fall in this zone, may not hit vehicle 172 Red Line Indicates, if rear objects are in this colored zone, you have to stop the vehicle and not allowed to go backward.
+If you still go backward, your vehicle will hit the object Do s and don  t   Do not use camera when tailgate is open.
+If tailgate is open, visual information may not be the actual rear view of the vehicle & system will warn with message 'Tail Gate Open, Please close.
+When the camera is operated under fluorescent lights, sodium light or mercury light etc., illuminated areas on the lens may appear to flicker in the display.
+Do not attach any advertisement or styling or any kind of stickers on top of camera.
+If this happens, camera cannot provide you the visual image and may damage camera.
+Do not add any accessory, which will obstruct camera field of view.
+Due to environmental reasons, dust, mud or fog may accumulate on the camera lens.
+Rapid changes in temperature may brittle the camera lens.
+Do not use hard cloth or material to wipe the camera lens.
+This will cause scratches on the camera, and leads to deteriorated visual image on the display.
+wax, window cleaner or glass coat to clean the camera.
+If this is applied, wipe it off the camera lens using stick or hard 173 as soon as possible.
+STARTING AND DRIVING Do not apply heavy force on lens, while cleaning.
+Do not remove mud, snow on STARTING AND DRIVING with reduction in humidity and less variation in ambient temperature.
+The area displayed by the rear view camera is limited.
+The camera does not display objects that are close to or below the bumper, underneath the vehicle, or objects out of the camera  s field of view.
+The area displayed on the screen may vary according to vehicle orientation or road conditions.
+WARNING 174 STARTING AND DRIVING properly nditions ditions, ar view orce on mirrors mera for he rear itions.
+ation in y result de the further camera It is rec- rely on feed for parking ch scenario.
+In case of damage, make phenomenon is temporary and will be automatically recovered 176 STARTING AND DRIVING Rear view camera system precautions 1.
+Area displayed on screen The rear view camera system displays an image of the view from the bumper of the rear area of the vehicle.
+To adjust the image on the rear view camera system screen.
+177 STARTING AND DRIVING   The area displayed on the screen may vary according to vehicle orientation conditions.
+Objects, which are close to either corner of the bumper or under the bumper, cannot be seen on the screen.
+The distance of the image that appears on the screen differs from the actual distance.
+The camera may not dis- The distance guidelines will appear to be play items that are located higher loser to the vehicle than the actual dis- 238 than the camera field of view.
+When the ground behind the vehicle slopes up sharply Because of this, objects will appear to be farther away than they actually are.
+In the same way, there will be a margin of error between the guidelines and the actual distance/course on the road.
+When approaching threedimensional objects The distance guidelines are displayed according to flat surfaced objects (such as the road).
+It is not possible to determine the position of threedimensional objects (such as vehicles) using the distance guidelines.
+When approaching a three-dimensional object 240 STARTING AND DRIVING 181 b.
+Vehicle width guidelines Visually check the surroundings and the area behind the vehicle.
+In the case shown below, t he STARTING AND DRIVING truck appears to be outside of the vehicle width guidelines and the vehicle does not look as if it hits the truck.
+However, the rear body of the truck may actually cross over the vehicle width guidel ines.
+In reality if you back up as guided by the vehicle width guidelines, the vehicle may hit the t ruck.
+Visually check the surroundings and the area behind the vehicle.
+On the screen, it appears that a truck is parked at point B.
+However, in reality if you back up to point A, you will hit the truck.
+On the screen, it appears that A is closest and C is furthest away.
+However, in reality, the distance to A and C is the same, and B is farther than A and C.
+242 EMERGENCY AND BREAKDOWN ASSISTANCE 306 NOTE Check contents of the first aid kit periodically and replenish consumed or expired items.
+EMERGENCY AND BREAKDOWN ASSISTANCE 307 EMERGENCY AND BREAKDOWN ASSISTANCE 308 whee l You should be familiar with the location of the emergency equipment provided in the vehicle and how to use it.
+Check this equipment periodically and ensure that they are in proper working condition and stowed at their locations.
+First aid kit The first aid kit is kept inside the glove box compartment.
+The kit contains items that can be used in case of minor injuries only.
+EMERGENCY AND BREAKDOWN ASSISTANCE 309 EMERGENCY AND BREAKDOWN ASSISTANCE 310 EMERGENCY AND BREAKDOWN ASSISTANCE 311 hazard.
+Press hazard warning switch, all turn signal lamps will start blinking Keep the warning triangle at an approximate distance of 50-150 m behind your vehicle in the same lane of traffic.
+The reflecting side of the triangle should face the oncoming traffic and it sh ould be free from any obstacles.
+Remove the advance warning triangle carefully from the bag and assemble.
+Hazard Warning Switch Press the hazard warning switch to activate the hazard warning.
+Use the hazard warning to warn the traffic during emergency parking or when your vehicle could otherwise become a traffic hazard.
+The hazard warning lamps can operate even if the ignition is switched off.
+EMERGENCY AND BREAKDOWN ASSISTANCE In Case of Flat Tyre   Close all the doors.
+Reduce vehicle speed gradually, without making any sudden steering or braking maneuvers.
+Pay attention to the traffic conditions as you do so.
+Stop the vehicle on solid, non-slippery and level ground, as far away as possible from traffic.
+If possible, bring the front wheels into the straight-ahead position.
+Set the parking brake firmly and shift into  R  (Reverse) gear.
+Keep advance warning triangle at a suitable distance behind the vehicle as an indication of breakdown.
+NOTE WARNING If you drive with a flat tyre, there is a risk of the following hazards    A flat tyre affects the ability to steer or brake the vehicle.
+Continued driving with a flat tyre will permanently damage the tyre and cause excessive heat buildup and possibly a fire.
+EMERGENCY AND BREAKDOWN ASSISTANCE Changing flat tyre Loosen the nuts (as indicated) on the wheel in diagonal sequence.
+Do not unscrew the nuts completely before jacking the vehicle.
+The jack is designed only to raise and hold the vehicle for a short time while a wheel is being changed.
+It is not suited for performing maintenance work under the vehicle.
+Avoid changing the wheel on uphill and downhill slopes.
+Apply wheel chokes if vehicle is parked on slope.
+Before raising the vehicle, secure it from rolling away by applying the parking brake.
+Do not use wooden blocks or similar objects as a jack underlay.
+Never place your hands and feet or lie under the raised vehicle when it is supported by the jack.
+Never run the engine when the vehicle is supported by the jack and never allow passengers to remain in the vehicle.
+Wheel nut removal 190 Never open or close a door or the tailgate when the vehicle is raised.
+Assemble the Jack handle and wheel spanner (as shown in jacking fig.) Position the jack vertically and raise it by turning the jack handle clockwise until the jac k sits completely on jacking point and the base of the jack lies evenly on the ground.
+The jacking points are indicated on sill cover of the vehicle (Refer jacking point location).
+Remove wheel mounting nuts with the help of wheel spanner and take out flat tyre.
+NOTE Do not place wheel nuts in sand or on a dirty surface.
+Roll the spare wheel into position and align the holes in the wheel studs.
+Install wheel nuts with their cone shaped end facing the wheel.
+Tighten each nut by hand until the wheel is securely seated on the hub.
+Lower the jack completely then tighten the wheel nuts one by one using wheel spanner.
+Restore all the tools and jack at their respective location.
+Place the flat tyre at spare wheel loca- Jump Lead Starting tion .
+Use only a battery of same rating & capacity to jump start your vehicle.
+Position the booster battery close to your vehicle so that the jump leads will reach both batteries.
+When using a battery of another vehicle, do not let the vehicles touch.
+Apply the parking brake firmly and keep the gearshift lever in neutral.
+Turn off all vehicle accessories, except those necessary for safety like hazard warning lamps.
+NOTE Check and correct the tyre pressure and wheel nuts tightness of the changed wheel at nearest authorised service station.
+Make jump lead connections as follows  WARNING RGENCY AND BREAKDOWN ASSISTANCE Never connect the jump lead directly to the negative ( ) terminal of the discharged battery.
+WARNING EMERGENCY AND BREAKD mounting stud/nut) of the vehicle of discharged battery.
+Start the engine of the vehicle with the discharged battery.
+Before disconnecting the jumper ca- bles, let the engine run for several minutes.
+If the booster battery you are using is fitted to another vehicle, start the engine of the vehicle with the booster   Connect one end of the first jump battery.
+Run the engine at moderate lead to the positive ( ) terminal of the speed.
+Remove the jump leads in the exact NOTE   Do not allow battery electrolyte to come in contact with eyes, skin, fabrics or painted surfaces.
+The fluid contains acid which can cause injury and severe damage.
+In case if battery acid comes in contact with the skin, wash it off immediately with water and seek medical attention.
+During charging and jumpstarting, explosive gases can escape from the battery.
+Particularly avoid fire, open flames, creating sparks   Connect the other end to the positive reverse order in which you connected ( ) terminal of the booster battery.
+Connect one end of the second jump lead to the negative ( ) terminal of the booster battery.
+WARNING Do not disconnect the discharged battery from the vehicle.
+RGENCY AND BREAKDOWN ASSISTANCE EMERGENCY AND BREAKD er your vehicle after ed by a tow truck.
+he hazard warning oth the vehicles to d users.
+ke failure, use the e to control the w rope or tow bar at es.
+RGENCY AND BREAKDOWN ASSISTANCE pull away slowly and e tractive power is vehicles could be   Make the final connection (other end of the negative terminal) to an unpainted, heavy metal part (i.e.
+engine Towing When towing a break down vehicle, certain precautions and procedures must be taken to prevent damage to the vehicle and/or components.
+Failure to use standard towing precautionary measures when lifting or towing a break down vehicle could result in an unsafe operating condition.
+To ensure proper towing and to prevent accidental damage to your vehicle, take help of a TATA MOTORS authorized dealer or a commercial tow-truck service.
+Tow hook fitment   Place the towing hook in the vehicle tool kit.
+Open the tailgate and remove tow hook from the tool kit.
+Open the tow hook cover provided on the front bumper by pressing it at the bottom part an d simultaneously pulling it at the top (as shown in fig).
+Screw in and tighten the tow hook in clockwise direction.
+After towing, remove the towing hook and press fit the cover properly.
+Make sure that the parking brake is released; vehicle in neutral gear position and steering wheel is unlocked.
+The power steering functions only when engine is running.
+Hence, during towing the steering efforts will be more.
+RGENCY AND BREAKDOWN ASSISTANCE EM Recommended towing In case of break down, we recommend that your vehicle be towed with the driving wheels off the ground or place the ve- Fuses Your vehicle has fuse boxes at three locations.
+The vehicles electrical circuits have If any electrical unit in your vehicle is not fuses to protect the wiring from functioning, check the fuses first.
+RGENCY AND BREAKDOWN ASSISTANCE Please follow the steps below that will guide you to check and replace them.
+Checking and replacing fuses   Remove the blown fuse by  fuse puller .
+The fuse puller and spare fuses are provided in the engine compartment fuse box.
+Engine compartment fuse box short circuits or sustained overload.
+Blown fuses must be replaced with fuses of same rating, which you can recognize by color and value.
+EMERGENCY AND BREAKDOWN ASSISTANCE 330 NOTE Always ensure that the spare fuses   Ensure that all other fuses are   If a newly inserted fuse also blows, pressed firmly in are replenished.
+have the cause traced and rectified at nearest TATA MOTORS Authorized Battery mounted fuse box Service Centre immediately.
+Function Fuse Rating PF1 STARTER MOTOR CAL 1 WARNING If you manipulate or bridge a faulty fuse or if you replace it with a fuse with higher amperage, the electric cables could be overloaded.
+There is a risk of an accident and injury.
+Always replace faulty fuses with the specified new fuses having the correct amperage.
+WARNING If Fuse box cover is removed for any reason, it should be refitted properly at its original position.
+Fuse Rating 0 ALTERNATOR (DIESEL) 150A 1 SUPPLY TO CABIN FUSE BOX 60A 2 ABS ECU 40A 3 GLOW PLUG (DIESEL) 60A 4 COOLING / RADIATOR FAN 40A 5 STARTER MOTOR SOL RELAY CONTACT 30A 6 RADIATOR FAN SERIES RESISTIR (LOW) 25A 7 SUPPLY TO CABIN FUSE BOX -1 60A 8 HEAD LAMP SUPPLY 40A 9 TRANS.
+CONTROL UNIT (AMT) 30A 10 IGNITION LOAD 40A 11 EPAS 60A 12 COMPRESSOR 10A 13 MAIN RELAY 30A 14 ABS ECU 25A 1 5 TR AN S.
+CON TROL UNIT (A MT ) 1 0 A NOT E EMERGENCY AND BREAKDOWN ASSISTANCE 334 The fuse box layo ut is for refer ence purp ose only.
+Plea se refer the stick er provi ded insid e the fuse box cover.
+Engine compartment fuse box Fuses - Engine Compartment (Diesel) (Diesel) EMERGENCY AND BREAKDOWN ASSISTANCE 336 16 HORN HIGH / LOW TONE 15A 17 SPARE - 18 EMS BATT / MAIN RELAY 5A 19 BRAKE SWITCH 10A 20 SPARE - 21 FORNT WASH MO- TOR (NON BCM)/ FRONT FOG LAMP 10A 22 STATER FEEDBACK 5A 23 SPARE - 24 SPARE - 25 H/L LOW 15A 26 SPARE - 27 TRANS.
+CONTROL UNIT (AMT) 10A EMERGENCY AND BREAKDOWN ASSISTANCE 338 28 ECU SENSOR 15A 29 SPARE - 38 EMS ECU 15A 39 ECU RELAY CONTROL 5A 40 SPARE - 41 REVERSE AND BRAKE LAMP 10A 42 ABC ECU 5A 43 FRONT WIPER MOTOR 20A 44 SPARE - 45 REAR WIPER MOTOR 10A 46 HEAD LAMP HIGH BEAM 15A Fuses - Engine Compartment EMERGENCY AND BREAKDOWN ASSISTANCE 340 ( Petrol) Fuse No.
+Function Fuse Rating 19 BRAKE SWITCH 10A 20 FUEL PUMP 15A 1 SUPPLY CABIN FUSE BOX - 1 60A 21 FRONT WASH MOTOR (NON BCM) 10A 2 ABS ECU 40A 22 STARTER FEEDBACK 5A 3 SPARE - 4 COOLING FAN 40A 23 SPARE - 5 STARTER MOTOR SOL RELAY CONTACT 30A 24 SPARE - 25 HEAD LAMP LOW BEAM 15A 6 SPARE - 26 SPARE - 7 SUPPLY CABIN FUSE BOX - 2 60A 27 TRANS.
+CONTROL UNIT (AMT) 10A EMERGENCY AND BREAKDOWN ASSISTANCE 342 8 HEAD LAMP 40A 10 IGNITION LOAD 40A 38 EMS ECU 15A 11 EPAS 60A 39 ECU RELAY CONTROL 5A 12 COMPRESSOR 10A 40 INJECTORS 15A 13 MAIN RELAY 30A 41 REVERSE AND BRAKE LAMP 10A 14 ABS ECU 25A 42 ABC ECU 5A 15 TRANS.
+CONTROL UNIT (AMT) 10A 43 FRONT WIPER MOTOR 20A 16 HORN 15A 44 SPARE - 17 SPARE - 45 REAR WIPER MOTOR 10A 18 MAIN RELAY 5A 46 HEAD LAMP HIGH BEAM 15A 28 ECU SENSOR 15A 9 TRANS.
+CONTROL UNIT (AMT) 30A 29 IGNITION DYL 15A Cabin compartment fuse box Cover removal procedure Fuse box is located inside the cover below steering column.
+To access the fuse box, remove cover as per procedure given below.
+cover from bottom side such that the lugs get disengaged.
+Re-fitment procedure Align and engage the top and bottom mounting lugs with respective slots on 1 .
+Fuse box cover is mounted on dash board with the help of lugs at the top and bottom of the cover from inside.
+To remove the cover, gently pull the EMERGENCY AND BREAKDOWN ASSISTANCE 344 dash board and press the cover firmly.
+Function 1 HL RLY CL / BCM 2 ACC BATTERY 3 TRANSIT/INFO 4 BCM 5 BCM 6 BLOWER 7 INT LAMP/MIR ADJ MTR 8 POWER SKT FRT 9 INFOTAIN- MENT/FLASHER 10 RESTRAINTS CONTROL MODULE 11 IMMOBILIZER / EPAS/CLUSTER 12 IGNITION 13 IGN SW / PEPS/REALY COIL 14 CDL 15 CLUSTER /OBD 16 TAILGATE REALESE MOTOR 21 PARK LAMP RH/POSITION LAMP RH 5A POWER SKT RR 15A EMERGENCY AND BREAKDOWN ASSISTANCE 346 PARK LAMP LH / POSITION LAMP LH REAR BLOWER 10A 10A 25A EMERGENCY AND BREAKDOWN ASSISTANCE 348 Fuses - Cabin Compartment Bulb Specification Sr.
+1 HIGH BEAM   LOW BEAM 12V, 55W H7 4 2 TURN SIGNAL FRONT 12V, 24W PSY24W 2 3 TURN SIGNAL REAR 12V, 21W PY21W 2 IGN-ACC 5A 20 IGN KEY -IN/PEPS 5A/5A 4 FOG LAMP FRONT (If applicable) 12V, 19W H16 2 5 FOG LAMP RAER (If applicable) 12V, 21W P21W 1 6 STOP LAMP 12V, 16W W16W 2 7 POSITION LAMP FRONT 12V, 5W W5W 2 8 POSITION LAMP REAR LED LED MODULE 2 9 REVERSE LAMP (Option I) 12V, 10W R10W 2 10 REVERSE LAMP (Option II) 12V, 21W P21W 1 11 REAR REGISTRATION PLATE LAMP LED LED MODULE 2 12 SIDE REPEATER LAMP- ON ORVM LED LED MODULE 2 13 ROOF LAMP LED LED MODULE 1 EMERGENCY AND BREAKDOWN ASSISTANCE 350 14 HIGH MOUNTED STOP LAMP LED LED MODULE 1 15 REAR BOOT LAMP 12V, 5W W5W 1 16 GLOVE BOX LAMP 12V, 5W W5W 1 17 DRL/Position (If applicable) LED LED MODULE 2 Head Lamp bulb Replacements Open the bonnet to access the head- 1.
+Replacing the low beam bulb WARNING The engine should not be running when changing bulbs.
+If the engine has been running just prior to replacing bulbs in the headlight housing, please keep in mind that components in the engine compartment will be hot.
+Headlamp bulbs can be re- placed without even disturbing or removing the entire headlamp unit.
+EMERGENCY AND BREAKDOWN ASSISTANCE 352 WARNING It is dangerous if a halogen bulb breaks.
+These bulbs contain pressurized gas and if broken, will explode causing serious injury by the flying glass.
+Halogen bulbs can break if the glass portion is touched with bare hands, body oil could cause the bulb to heat unevenly and explode when lit.
+EMERGENCY AND BREAKDOWN ASSISTANCE 354 355 EMERGENCY AND BREAKDOWN ASSISTANCE 3 .
+Unlock high beam bulb holder clip, by pull ing it backward.
+EMERGENCY AND BREAKDOWN ASSISTANCE 357 24 X 7 Road Assistance Dear Customer, It is our responsibility and our endeavour to ensure that you have our complete service backup if ever, wherever and whenever you need the same.
+When you have a road network that spans wide area, the probability of a breakdown happening within hailing distance of a TATA MOTORS Authorized Workshop is very low.
+It is precisely for this reason, we have tied up with TVS AA, who will provide breakdown assistance including towing to the nearest TATA MOTORS Authorized Workshop through their Authorized Service Providers (ASP).
+The 24X7 On Road Assistance Program shall be automatically available to your 288 vehicle for the duration of Warranty Standard procedure when calling period.
+The program shall also be for On Road Assistance in case of a available, if you avail the same post breakdown  warranty.
+Dial the toll free help line number   Response Time   for the On Road 1800 209 7979 Assistance Program EMERGENCY AND BREAKDOWN ASSISTANCE   Identify your vehicle with the Vehicle chassis number that is available in the Owner s Manual.
+Explain your exact location with landmarks and tell us about the problem you face with the vehicle.
+Park your vehicle on the edge of the road, open the bonnet and put on   (The response time will depend on the location, terrain, traffic density and the time of the day.)   the hazard warning signal.
+Place the advance warning triangle supplied with the vehicle approx.
+3 m from the vehicle in the direction of oncoming traffic.
+Within City Lim- its 60 minutes On State or National Highways 90 minutes Ghat Roads and other places 120 minutes  /- 359 EMERGENCY AND BREAKDOWN ASSISTANCE   Re-opening the vehicle in cases of Coverage under 24 X 7 on Road (Any key lock out.
+The 24x7 On Road Assistance be pin ca related to battery, fuses etc.
+Program Service covers the following   On spot repairs for complaints services on your vehicle during warranty For a repairable at site.
+Vehicle to vehicle towing or winching   Wheel change through spare wheel.
+& towing for non-accident cases up   Arrangement of fuel.
+(Fuel cost will to the nearest TATA MOTORS II.
+Towing Assistance be chargeable at actual charges at actual cost beyond the same to be paid to the ASP in cash.
+cost) availing the 24Program coverage on X7 policy, post warranty is upto maximum of 6 instance of assistance in one year for EMERGENCY AND BREAKDOWN ASSISTANCE both the plans- Basic and Premium.
+In the premium plan, this includes 2 instances of towing upto the nearest TATA MOTORS authorised workshop.
+Exclusions 24 X 7 On Road Assistance Program does not apply to   Cost of parts consumables and labour for such repairs not covered under warranty .
+These charges are to be settled with ASP in cash.
+Toll or ferry charges paid by ASP in reaching to the breakdown site to be settled with ASP in actuals in cash.
+Breakdown/defects caused by misuse, abuse, negligence, alterations or modifications made to the vehicle.
+Lack of maintenance as per the maintenance schedule as detailed in   Cases involving racing, rallies, vehicle testing or practice for such events.
+The reach time is indicative & the actual reach time will be conveyed the owner s manual.
+290   Cases involving accident, fire, theft, vandalism, riots, lightening, earthquake, windstorm, hail, 361 tsunami, unusual weather conditions, other acts of God, flood, etc.
+by the call centre at the time of breakdown call.
+The reach time can vary depending on the traffic density & time of the day.
+The reach time indicated does not account for delays due to but not limited to acts of God, laws, rules & regulations for time being in force, orders of statutory or Govt.
+authorities, industrial disputes, inclement weather, heavy down pour, floods, storms, natural calamities, road blocks due to accidents, general strife and law & order conditions viz.
+On spot repairs at breakdown site shall depend on nature of complaints & will be as per the discretion of the ASP.
+The decision for free of charge repairs will be as per the warranty MOTORS will not be responsible for any repairs carried out in such unauthorized workshop.
+Customer are advised to take acknowledgment from the ASP for the list of accessories/extra fittings condition will the vehicle be towed to any unauthorized workshop.
+TATA and other belongings in the vehicle as well as the current condition related to dents/scratches breakages of parts/fitments of the vehicle at the time of ASP taking possession of the vehicle & to verify these items when delivery is taken back by them, Claim for loss of or damage to items, if any should be taken up with ASP directly.
+TATA MOTORS shall not be responsible for any such claims, policy & procedures of TATA MOTORS LTD.
+and as per the interpretation of the same by ASP.
+You will be duly informed by the ASP & call centre for the change applicable if any.
+All charges wherever applicable need to be settled directly with the ASP.
+Exclusion of Liabilities     It is understood that TATA MOTORS shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of any delay in or non-delivery of, defect/deficiency in service/parts provided by ASP.
+In case vehicle cannot be repaired on-site, customers are advised to use the towing facility for taking their vehicle to the nearest TATA MOTORS authorized workshop only.
+In no EMERGENCY AND BREAKDOWN ASSISTANCE damages/loss or any deficiency of service of the ASP.
+Vehicles will be handled, repaired & towed as per the customer s risk & any damages / claims as a result of etc.
+S   e r v i c e s e n charges related services and spare parts during service or on previous occasion on part of the customer.
+The completion of repairs does not certify the road worthiness of the vehicle.
+The customer is advised to ensure temporary repairs carried out onsite is followed by permanent repairs at a TATA MOTORS Authorized Workshop at the earliest.
+Terms and conditions and service coverage, exclusions Vehicle t Tracking System (VTS) i t Vehicle Tracking System (VTS) is an l Electronic device fitted inside every e Passenger vehicle (with Yellow plate TATA MOTORS shall not be liable for d to the customers can be refused or EMERGENCY AND cancelled on account of BREAKDOWN ASSISTANCE abusive behavior, fraudulent representation, malicious intent and refusal to pay the charges for any NOTE Please ensure that the VTS system is functional in the vehicle at all times otherwise, it will lead to violation of regulation.
+Any tampering, disconnection or bypassing of VTS system will send the alerts to Government servers.
+Customers may be liable for legal action for any such incidents.
+Government servers may also monitor driver s rash / negligent driving behavior.
+363 292 registration used for commercial purpose), which operates as a Taxi / Fleet for carrying passengers.
+of India regulations (AIS  140), it is mandatory to fit VTS in all abovementioned vehicles registered on or after 1st Jan.
+Purpose  The emergency switches are provided inside the vehicles.
+It shall be press by the driver or any occupant in emergency like accidents, medical emergencies & or Law a) Efficient management of Transport & order situations.
+If the occupant feels threatened or unsafe, then also this can be System in the country.
+used b) To provide quick response & help in case of emergencies like accidents.
+c) Government servers may also monitor driver s rash / negligent driving behavior.
+Emergency (SOS) switch NOTE the an Ign SO Ple Sw sw Operation  294 ND BREAKDOWN ASSISTANCE NOTE After pressing the Emergency Switch, Police or Law enforcing agencies may track and intercept the vehicle.
+The occupants should be able to justify the usage of Emergency Switch to them.
+After pressing switch, SOS symbol is not blinking; there is some fault in the system that needs to be rectified.
+Please contact your nearest Tata Motors Authorised Service Center for rectification Th se 295 RGENCY AND BREAKDOWN ASSISTANCE a) Ignition ON & switch not pressed  If t During normal Ignition ON, the  SOS  no symbol on switch will flash ON continuously as 0.1 Seconds ON ---- 4 Seconds OFF - 0.1 Seconds ON- 4 an Seconds OFF - --When Ignition is turn OFF, it will switch OFF after some time.
+Ce b) Switch pressed In emergency, lift the flap and gently press the SOS symbol on switch for 0.5 seconds.
+The  SOS  symbol on switch will flash continuously as Seconds ON - 0.5 Seconds OFF ------ 0.5 Seconds ON - 0.5 Seconds OFF --- Police after verifying the incident with c) Un-intended Pressing of Emergency the owner/driver of the vehicle will re- Switch  set the switch.
+To avoid un-intentional pressing of Tata Motors or its dealers will not be Emergency Switch, the flap is provide on able to re-set the system if switch.
+However, if any occupant Emergency Switch is press unpresses the emergency switch by intentionally.
+mistake, the emergency switch will keep on flashing until it is re-set by emergency response server.
+The Government agencies like Traffic Management & Location of Switches  Activation of VTS System  is fla is bli Ta fix 297 EMERGENCY AND BREAKDOWN ASSISTANCE 298 Your dealer will help in activating the device when it is install in the vehicle.
+If EMERGENCY AND BREAKDOWN ASSISTANCE activation is not done, SOS symbol inside the switch will not flash.
+If despite activation if SOS symbol inside emergency switch is not blinking, contact your nearest Tata Motors Authorised Service Center for rectification.
+Recharging of Data Plan  The VTS system come with preloaded data For driver and front passenger for 6 Months / 12 Months/24 months from the date of purchase of vehicle.
+After the data is consumed or after completion of bundled data period, the SIM needs to be re- charged.
+Your network operator will inform you about the data consumption & re-charging due dates.
+Re-charge can be done by  a) At Tata Motors Authorised Service Center.
+b) By logging onto the network provider For rear Passenger (LHS) portal.
+For any support or further info, please contact your nearest Tata Motors Authorised Service Center.
+NOTE The VTS consumes battery even when the Ignition is OFF.
+If the vehicle is park or not use for more than 10 days, it is advisable to start the engine and keep the engine running at 3000 rpm for at least 30 minutes for re-charging the battery.
+WARNING 299 EMER GENC Y AND BREA KDO WN ASSIS TANC E Always keep the Ignition in OFF position when vehicle is park or not being driven.
+300 EMERGENCY AND BREAKDOWN ASSISTANCE Warranty may be void in case    Customer installs any other device/accessories, which are not authorised by Tata Motors.
+Additional accessories may lead to overloading of Electrical System inside vehicle and may reduce battery performance.
+Any tampering of the VTS device, Emergency Switches or it s wiring harness.
+229 Maintenance and Service Periodic maintenance is essential for ensuring long trouble free performance.
+Have your vehicle serviced regularly from TATA MOTORS Authorized Service Centre.
+There is a large network of TATA MOTORS Authorized Service Centre to help you with their professional servicing expertise.
+Scheduled maintenance information is provided which makes tracking routine service easy.
+MAINTENANCE 374 MAINTENANCE WARNING   Be careful not to touch a hot engine, exhaust manifold and pipes, muffler, radiator and water hoses.
+Do not work on a vehicle with the engine running in an enclosed space, unless you are sure of enough ventilation.
+Keep all open flames and other burning material (such as cigarettes) away from the battery and all fuel related parts.
+If you need to do any work inside the engine compartment,   Switch off the ignition   Never reach into the area where there is a risk of danger from moving components, such as the fan rotation area.
+MAINTENANCE 376 The following checks can be carried out between the recommended scheduled maintenance services.
+Take help of our authorized service centre for assistance.
+Engine oil level   Engine coolant level   Brake fluid level   Washer fluid level checking & topping up   Battery electrolyte level   Tyre inflation pressure including spare wheel 231   Keep clothing away from moving parts.
+NOTE Refer  Opening and Closing  section for engine bonnet opening.
+Windshield washer co ntainer 233 Engine Compartment   Petrol with AMT MAINTENANCE 1.
+Coolant auxiliary tank NOTE The oil consumption depends upon the driving style and the conditions under which the vehicle is used.
+310 235 MAINTENANCE 312 Petrol Diesel Engine Oil Level Warm up the engine to normal operating temperature.
+Turn it  OFF  and wait for 5 minutes for the oil to return to the oil pan.
+Be sure the vehicle is on a level surface.
+Take out the dipstick, wipe it clean, and reinsert it fully.
+Pull it out again and examine the oil level.
+NOTE Do not remove the filler cap when the engine is running.
+MAINTENANCE For location of Engine oil filling cap and dip stick, please refer respective Engine Compartment.
+MAINTENANCE 237 314 NOTE In case of emergency, a large amount of water without engine coolant may be added in order to reach a vehicle service location.
+NOTE WARNING MAINTENANCE between the  MIN  and  MAX  marks provided on the coolant reservoir.
+When the coolant levels is low, top up with recommended coolant up to  MAX .
+Whenever coolant has been added, the coolant level in the coolant reservoir should be checked the next few times you drive th e vehicle to confirm correct level.
+For location of Engine coolant container and filler cap, please refer respective Engine Compa rtment.
+Topping of the coolant should be done in the auxiliary tank only.
+Make sure that only TATA MOTORS recommended coolant is used.
+Mixing of different coolants may harm your engine  s cooling system and its components.
+Do not add extra inhibitors or additives to the coolant.
+These can be harmful and compromise the corrosion protection of the engine coolant.
+This can severely impair pressurized, particularly when the visibility when sprayed on the engine is warm.
+When opening the windshield, and can also damage cap, you could be scalded by hot your vehicle s paint.
+There is a risk operate washer motor with no of injury.
+fluid in washer tank, washer motor Let the engine cool down before will be damaged opening the cap.
+Wear eye and For location of Windshield Washer hand protection when opening the Container and filling cap, please refer cap.
+Open the cap slowly half a turn respective Engine Compartment.
+Battery   Check the battery terminals for NOTE corrosion (a white or yellowish Do not use detergent or any other powder).
+To remove it, wash the additive in the windshield washer terminals with a solution of baking If you need to connect the battery to For location of battery, please refer soda.
+When this stops, wash it off with plain water.
+Dry off the battery with a cloth or paper towel.
+Coat the terminals with petroleum jelly to prevent future corrosion.
+Use a proper wrench to loosen and remove cables from the terminals.
+Always disconnect the negative (- ve) cable first and reconnect it last.
+Clean the battery terminals with a terminal cleaning tool or wire brush.
+Reconnect and tighten the cables, coat the terminals with petroleum jelly.
+Windshield Washer Fluid Level Check that there is washer fluid in the tank.
+Use a good quality windshield washer fluid, diluted with water as necessary.
+Check the battery for electrolyte level against the marking on the battery outer case.
+239 MAINTENANCE 390 a charger, disconnect both cables to respective Engine Compartment.
+Under inflation Excessive side tread wear MAINTENANCE 392 MAINTENANCE 241 3 Over inflation Excessive center tread wear Correct tyre pressure Uniform wear NOTE Tightening Torque   18 - 25 Nm Inflation Check for inflation and condition of your vehicle tyres periodically.
+Check the pressure in the tyres when they are cold.
+Keeping the tyres properly inflated gives you the best combination of riding comfort, handling, t yre life and better fuel efficiency.
+Over inflation of tyres makes the vehicle ride bumpy and harsh.
+Tyres are more prone to uneven wear and damage from road hazards.
+Every time you check inflation pressure, you should also examine tyres for uneven wear, damage and trapping of foreign objects in the treads and wear.
+MAINTENANCE 394 Under inflated tyres reduce your comfort in vehicle handling and are prone to failures due to high temperature.
+They MAINTENANCE also cause uneven wear and more fuel consumption.
+243 Recommended tyre pressures Tyre NOTE Use spark plug of recommended make & type for replacement.
+Spark Plug (Petrol) Tyres Tyre size Front Rear 215/60 R16 psi / 2.07 30 bar 30 psi / 2.07 bar 195/60 R16 psi / 2.20 32 bar psi / 2.20 32 bar MAINTENANCE 396 rotation MAINTENANCE For alloy wheel rims with spare Wheel Alignment Front Rear Caster 4.4    45  - Camber -26    26  -52    30  Toe in 10    5  -3  to   27  Toe Out - - 325 MAINTENANCE Incorrect wheel alignment causes excessive and uneven tyre wear.
+Wheel alignment values are given below  Wheel Balancing Wheels of your vehicle are balanced for better ride comfort and longer tyre life.
+Balancing needs to be done whenever tyre is removed from rim.
+Special care for tubeless tyres    While removing tyre from wheel rim and mounting it back on wheel rim, take precautions not to damage tyre bead.
+Damage or cut on tyre bead may cause gradual loss of air and deflation of tyre.
+Camber angle deviation (Between LH & RH) 20  20  WARNING If the vehicle vibrates abnormally on a smooth road, have the wheel balanced done immediately.
+wheel of steel wheel rim ( i f equipped )   Do not scratch inside of tubeless tyre with metallic or sharp object.
+Tubeless tyres are coated with impermeable layer of rubber from inside which holds the air inside the tyre.
+Removal of this layer due to scratching may cause gradual loss of air and deflation.
+326   If wheel rim gets damaged in service, get the wheel rim repaired/ replaced immediately.
+Running the vehicle with damaged rim may cause deflation of tyre and subsequent dislodging of tyre from rim.
+Over- inflation, in particular , may cause puncture or bursting of tyre.
+the new 327 taken up with concerned tyre manufacturer.
+Remote Key Battery Replacement ( For Flip key) Remote control key contains a battery, which is housed under the cover.
+If red LED on remote flashes for 5 times after operating any button on remote.
+It is recommended to replace battery at a TATA MOTORS Authorised Service Centre.
+You should, however, pro ceed as follows MAINTENANCE i charged battery yourself  f 1.
+Press off the battery cover u with your thumb or using a w flat screwdriver at the points i of the arrows.
+Life and wear pattern of tyres depends on various parameters like tyre pressure, wheel alignment, wheel balancing, tyre rotation, etc.
+It also largely depends on vehicle speed, load carried, usage, driving habits, road conditions, tyre quality, etc.
+In case fault is suspected to be due to poor quality of tyres, the same may be s h 3.
+Remove the discharged t o battery from the key by r pressing the battery e downwards at the point of the arrow.
+Ensure that the   symbol on the batter polarity is shown on the battery cover.
+Position the battery cover on the key an lock in place.
+p l a c e t h e d i s 328 MAINTENANCE 1.
+NOTE 329 MAINTENANCE NOTE An inappropriately disposed battery can be harmful to the environment and human health.
+Dispose the battery according to your local law(s) and regulation.
+Use CR 2032 ba NOTE 330 MAINTENANCE Smart Key Battery Replacement (For PEPS variant) 2.
+Replace with new battery in the Procedure  smart key battery slot.
+On Board Diagnostic (OBD II) on RH side below the steering wheel.
+Re System fer  Emergency and Breakdown Assis- tance  section for removal of cover.
+An inappropriately disposed battery can be harmful to the environment and human health.
+Dispose the battery according to your local law(s) and regulation.
+331 MAINTENANCE On board Diagnostics or OBD, is an automotive term referring to a vehicle  s selfdiagnostic and reporting capability.
+The OBD system allows continuous diagnosis of the components of the vehicle correlated with emissions.
+This system warns the driver, by turning   ON  the Malfunction Indication lamp (MIL) on the instrument cluster, when a fault causes emission levels to increase.
+The OBD system also has a diagnostic connector that can be interfaced with appropriate diagnostic tools, which makes it possible to read the fault codes stored in the Electronic Control Unit, together with a series of specific parameters for Engine operation and Diagnosis.
+This check can also be carried out by the traffic police.
+To access the diagnostic connector, open the fuse box cover, which is located Service Instructions 332 MAINTENANCE 406 The TATA NEXON has been manufactured to give you economical and trouble free performance.
+To achieve this, please follow the instructions as stated.
+Your vehicle is entitled to three free services (labour only).
+The free service coupons are attached to the sales invoice.
+Please present these coupons to the servicing dealer while availing free services.
+Servicing of the vehicle can be done at any TATA MOTORS Authorised Dealer Workshop or TATA MOTORS Authorised Service Centre (TASC).
+Warranty claims can be settled by any TATA MOTORS Authorised Dealer Workshop or TATA MOTORS Authorised Service Centre (TASC).
+MAINTENANCE 407 MAINTENANCE 408 6 Check & Replace if found damaged - - Exhaust hanger , Suspension bushes 30K/24 M           7 Apply grease on all latches, locks, check starps 10K/ 6M                                         MAINTENANCE 409 5 Check AC & alternator belt condition visually, replace if found damage   15K / 12M                     MAINTENANCE 410 6 Check timing belt visual condition, replace if found damage   105K / 24M   7 Replace air filter element (more frequently for vehicle operating in severe condition) 45K / 36M       MAINTENANCE 411 2 Change engine oil and Oil filter 15K / 12M                     3 Gasoline - Replace Fuel Filter 75K / 60M     4 Change Spark plugs 30K / 24M           5 Check accessory belt conditi on visually, replace if found damage 15K / 12M                     6 Replace air filter element (more frequently for vehicle operating in severe condition) 45K / 36M         - Kms or Months whichever occurs earlier MAINTENANCE 412 1 Check front brake pads & rear brake linings.
+Replace if necessary 15K / 12M                     2 Replace brake fluid Check brake system components for Leakages   45K / 24M       3 Inspect & if necessary adjust handbrake setting 15K / 12M                     Wheels & Tyres MAINTENANCE 413 1 Check & Adjust Wheel alignment   15K / 18M                     2 Check for Tyre pressure, condition & rotate   7.5K / 12M                                         MAINTENANCE 414 (Petrol & Diesel)     - Kms or Months whichever occurs earlier Vehicle Parking for Long Duration (Non - Use 1.
+Park the vehicle in covered, dry and if possible well- Maintenance) ventilated premises.
+If you want to park your vehicle at one place for long duration, following care is to be taken  MAINTENANCE 2.
+Remove the battery terminal cables (first remove the cable from the negative terminal).
+Block the wheel or engage in the gear mode.
+Clean and protect the painted parts using protective wax.
+Clean and protect the shiny metal parts using commercially available special compounds.
+Sprinkle talcum powder on the rubber windscreen wiper and lift them off the glass.
+Cover the vehicle with a cloth or perforated plastic sheet.
+Do not use sheets of imperforated plas tic as they do not allow moisture on the vehicle body to evaporate.
+Inflate the tyres to 0.5 bar above the normal specified pressure and check it at regular intervals.
+257 MAINTENANCE 258 Fuel Specification Fuel (Diesel) Normal grade BS IV compliant diesel conforming to IS1460 or EN 590 or equivalent is recommended to be used as fuel.
+Do not use premium diesel available in the market for example extra premium / Turbojet etc.
+Recommended fuel specifications Parameter Unit BS IV Cetane Number (min) C N 51 Sulphur content mg/kg 50 Lubricity (HFRR) micron 460 NOTE TECHNICAL INFORMATION Where oxidation catalytic converter is fitted, it is mandatory to use Diesel fuel with sulphur contents as given above.
+Use of any other diesel fuel can increase the pollutants.
+At very low temperature, fluidity of diesel may become insufficient due to paraffin separation.
+It is therefore necessary to mix supplementary fuel with summer or winter grade diesel.
+Ratio for mixing of supplementary fuel and diesel are shown in the table.
+Summer grade diesel Supplementary fuel TECHNICAL INFORMATION Care should be taken that diesel and supplementary fuel are Up to 0 100 0 0 to - 10 70 30 -10 to - 15 50 50 259 -15 to - 20 70 30 -20 and below 50 50 Ambient Temperature upto Deg C.
+Percentage Winter grade diesel Supplementary fuel Up to - 15 100 0 WARNING Do not mix gasoline or alcohol with diesel.
+Fuel (Petrol) Unleaded gasoline conforming to Anx- IV-N GSR 84(E) for Domestic and Petrol unleaded RON95 EN228 for export is recommended to be used as fuel.
+It is always recommended to use correct fuel to get optimum emission performance.
+347 TECHNICAL INFORMATION NOTE Always use petrol of a correct specification in a vehicle fitted with catalytic converter.
+Even single fill of leaded petrol will seriously damage the catalytic converter.
+Engine Oil ( 1.2 RVT ) - Petrol 5W30 ACEA A5/B5 TATA SS6579 CASTROL Magnatec Professional T 5W30 3.5 Litres Litres (Dies EXXON Mobil Mobil Super 3000 TMGO 5W 30 Tata motors genuine oil Engine Oil ( 1.5 RTQ ) - Diesel PETRONAS TATA MOTORS GENUINE OIL -Engine Oil synth 5W30 Lubricant Specification Use following genuine fluids, coolants and lubricants recommended for optimum performance of your vehicle.
+( TECHNICAL INFORMATION TATA MOTORS GENUINE COOLANT KOOL PLUS 6.5 Litres (Diesel) PETRONAS TATA MOTORS Genuine -Gear oil New Gen 80 EP LL 2.4 Litres IOCL TATA MOTORS Genuine gear oil 80 WLL Coolant (Pre-mixed) Class II/JIS SUNSTAR CCI Golden Cruiser LLC 2200NP 5.5 Litres (P TUTELA Cs-Speed As required PETRONAS TATA MOTORS Genuine Brake Oil DOT 4S As required Golden Cruiser Tata Genuine Brake Fluid (DOT4) Optional - CASTROL   Universal Brake Fluid DOT 4 349 TECHNICAL INFORMATION 425 ND Parameter Die Engine Model/type TATA 1.5R Capacity Max.
+Torque 260 Nm   15 Clutch Type Outside diameter of clutch TECHNICAL INFORMATION 426 Technical Specifications 1497 Transaxle Refrigerant R-134a - Compressor Oil ND-8 denso/subros 3 TECHNICAL INFORMATION 427 Model TA 6300 Type Synchromesh on all forward gears and sliding mesh on reverse gear No.
+Of gears 6-Forward, 1-Reverse Steering Type Column Mounted Electric Power Assisted Steering System Brakes Brakes Front (Disc); Rear (Drum) Parking brake Cable operated Mechanical on rear wheels Parameter Diesel Petrol Suspension TECHNICAL INFORMATION 428 Type Mcpherson strut Shock absorber Double acting telescopic type Wheels & tyre Tyres Option Wheel rims Fuel tank Capacity Cab / body Type Electrical system TECHNICAL INFORMATION 429 12 System voltage Alternator capacity Battery Max.
+Width 1811 1811 Ground clearance 165 (Laden)- 195/60 R16 184 (Laden)- 215/60 R16 165 (Laden)- 195/60 R16 184 (Laden)- 215/60 R16 Performance TECHNICAL INFORMATION 430 Parameter Diesel Petrol Main chassis dimension (in mm) Wheel base 2498 2498 Track front 1540 1540 Track rear 1530 1530 Overall length 3994 3994 Overall height 1607 1607 Max.
+in meter as per IS 12222 10.2 m Minimum Turning Clearance circle dia.
+in meters as per IS 12222 10.8 m Weight (in kg) Gross vehicle weight (Laden) 1660 Kerb weight (unladen) 1250 (XM, XT,XZ , 1225 (XE) TECHNICAL INFORMATION 432 Vehicle Dimensions Aggregate Identification Numbers NOTE   Dimensions are in mm Laden/Unladen condition TECHNICAL INFORMATION 433 CAR CARE AND VALUE ADDED SERVICES Car Care Your vehicle is subjected to many external influences such as climate, road conditions, industrial pollution and proximity to the sea.
+These conditions demand regular care of the vehicle body.
+Dirt, insects, bird droppings, oil, grease, fuel and stone chippings should be removed as soon as possible.
+Always wash your vehicle in shade and the surface is at room temperature.
+Wash with mild vehicle wash soap like  Car Shampoo  and use a soft bristle brush, sponge or soft cloth and rinse it frequently while washing to avoid scratches.
+To remove stubborn stains and contaminants like tar, use turpentine or cleaners like  Stain remover  which are safe for paint surfaces.
+Avoid substances like petrol, diesel, kerosene, benzene, thinner or other solvents that cause damage to paint.
+Dry your vehicle thoroughly to prevent any damp spots.
+Rinse all surfaces thoroughly to prevent any traces of soap and other cleaners as this may lead to the formation of stains on the painted surface later.
+WARNING Do not direct high pressure washer fluid/ water jets (Pressure above 0.5 Bar) at electrical devices and connecter during washing.
+This is to prevent malfunction / failure of electrical system due to water ingress.
+After drying the vehicle, inspect it for chips and scratches that could allow corrosion to start.
+Cleaning of Carpets Vacuum clean the carpet regularly to remove dirt.
+Periodically shampoo the carpet to keep it looking new.
+Keep the carpeting as dry CAR CARE AND VALUE ADDED SERVICES as possible by not adding water to the foam.
+269 NOTE Avoid wiping of painted surface in dry condition as it may leave scratches on the painted surface.
+Cleaning of Windows, Front and Rear Glasses Clean the windows inside and outside with commercially available glass cleaners.
+This will remove the haze that builds up on the inside of windows.
+Use a soft cloth or paper towels to clean all glass and plastic surfaces.
+FAST TAG FAST TAG is pasted on front windshield from the inside.
+270 NOTE Do not attempt to rip or tamper the tag.
+Waxing Waxing and polishing is recommended to maintain the gloss and wet-look appearance of your paint finish.
+Use good quality polish and wax for your vehicle.
+Re-wax your vehicle when the water does not slip off the surface but collects over the surface in patches.
+Polishing Polishes and cleaners can restore shine to the painted surface that has oxidized and become dull.
+They normally contain mild abrasives and solvents that remove the top layer of the finish coat.
+Polish your vehicle, if the finish does not regain its origina l shine after using wax.
+If left for a long time, they can leave a permanent mark.
+Cleaning the stains immediately is important especially for stains CAR CARE AND VALUE ADDED SERVICES which contain artificial colors in the stain creating liquid or semisolid substance.
+The colorant may leave a or lift the stain with cloth or plastic 4.
+If the stain has dried, then gently stain if kept for longer time.
+spatula and then clean the brush off the material and then remaining stain with cloth or sponge.
+As far as possible, try to blot press with damp cloth or sponge till 5.
+Paint Care Following guidelines will help you to protect your Vehicle from corrosion effectively.
+Proper cleaning In order to protect your vehicle from corrosion it is recommended that you wash your vehicle thoroughly and frequently in case    There is a heavy accumulation of dirt and mud especially on the underbody.
+It is driven in areas having high atmospheric pollution due to smoke, soot, dust, iron dust and other chemical pollutants.
+The underbody must be thoroughly pressure washed after every three months.
+In addition to regularly washing your car, the following precautions need to be taken.
+Periodic Inspection   Regularly inspect your vehicle for any damage in the paint film such as deep scratches and immediately get them repaired from an authorized service outlet, as these defects tend to accelerate corrosion.
+CAR CARE AND VALUE ADDED SERVICES Proper Parking Always park your vehicle in shade to protect it from 271 CAR CARE AND VALUE ADDED SERVICES 438 harsh sunlight or in a well- ventilated garage so that there is no dampness on any part of the vehicle.
+Wiper care   To prevent damage to   the wipers or windshield, do not operate the wipers when the windshield is dry.
+To prevent damage to the wiper arms and other components, do not attempt to move the wipers manually.
+Extended Warranty CAR CARE AND VALUE ADDED SERVICES 439 TATA MOTORS recommends the purchase of its extended warranty program.
+Coverage - Mechanical   Electrical Benefits   Insures you against unforeseen break down repair bills.
+Near cashless & speedy claim Term 24   12 months or 75,000 kms whichever occurs first OR 24   24 months or 1,00,000 kms whichever occurs first Extended Warranty is available in the dealership from where you have purchased your vehicle.
+We strongly recommend purchase of Extended Warranty at time of purchase of your vehicle.
+Extended Warranty can be availed till 421 days from date of purchase of vehicle.
+The Dealer Service Marketing Executive shall explain to you the Terms and conditions, Coverage and Owner s responsibility.
+Extended Warranty Booklet & Cover Note The Extended Warranty booklet and cover note is the basis of the contract between TATA MOTORS LIMITED and the Owner of the vehicle shown on the Extended Warranty booklet.
+The Customer is to retain this booklet and the same to be produced to the dealer while claiming benefit s under Extended Warranty.
+CAR CARE AND VALUE ADDED SERVICES 440 Note   The 12 or 24 months extended warranty does not follow the 24 months Manufacturer's warranty.
+The extended warranty comes into force once the manufacturer s warranty expires e.g.
+It is more restrictive as by the time it comes into force the vehicle is already 24 months old.
+Mechanical / Electrical break down as defined in this warranty and confirmed by the dealer with in the stipulated terms and conditions.
+TATA MOTORS dealer shall either rep air or replace any part found to be defective with a new p art or an equivalent at no cost to the owner for p arts or labour.
+Such defective parts which have been replaced will become property of TATA MOTORS LIMITED.
+Comprehensive list of parts covered is mentioned in the page 9-12 of the Extended Warranty Booklet.
+Please refer the Extended Warranty Booklet for details of the exclusion list.
+Owner s Responsibility    Proper use, maintenance and care of the vehicle in accordance with the instructions contained in the Owner s Manual and Service Booklet.
+The records of the same to be ensured in Owner s Manual.
+I / We have been explained the Terms and conditions, Coverage and Owner s responsibility by the Dealer Service Marketing Executive.
+CAR CARE AND VALUE ADDED SERVICES 441 I wish to avail / Do not wish to avail extended warrant policy.
+Customer s Signature Dealer s Signature Value Added Services Why are Corrosion Protection Waxes necessary?
+Corrosion is caused by  Water / salt water acid rain & atmospheric fallouts.
+Critical areas are  Cavities  joints, crevices, spot welds, underbody   Corrosion is the most important factor when we talk about the vehicle life.
+If you treat your car y ou can prolong the life.
+It is very dangerous to drive around in a corroded vehicle.
+The corrosion creeps onto the vehicle from the inside and from the outside.
+The most dangerous k ind of corrosion is often not discovered until it is too late.
+Benefits of Anti - Rust treatment    A professionally applied range of world class products offering real value to the new and used vehicle customer.
+The treatment has been developed to withstand the harshest environmental and climatic conditions (rust.
+Pollutants, stone and gravel impact, etc.) CAR CARE AND VALUE ADDED SERVICES 442   Insulate cabin space from external noises.
+Higher safety   uncorroded vehicle   10 free checkups available TATA MOTORS has tied up with M/s Wurth, M/s Autokrom, M/s 3M India Lt d & M/s Bardahl for these world class treatment at affordable prices.
+The Dealer Service Marketing Executive will explain to you the benefits and terms and conditions of this treatment.
+I / We have been explained the Benefits, Terms and conditions an d the prices of these treatments by the Dealer Service Marketing Executive.
+I wish to avail / Do not wish to avail extended warrant policy.
+Customer s Signature Dealer s Signature CAR CARE AND VALUE ADDED SERVICES 443 Vehicle Exterior Enrichment Why vehicles are painted?
+Various Environmental Hazards affecting paints Environmental hazards  destroy your vehicle's finish.
+Even as your new vehicle rolls off the assem bly line, the paint is not protected.
+The enemy Ultraviolet Rays, Pollution, Tree Sap, Bird Droppings, Car Wash Chemicals, Road Salt, Acid Rain.
+Benefits  Vehicle Exterior Enrichment   Removal of medium scratches, orange peel, oxidation, dust nibs etc.
+Restoration of original gloss levels, UV protection after gloss is restored.
+CAR CARE AND VALUE ADDED SERVICES 444   Cleaning & dressing of tyres, Bumpers & all exterior plastic moldings/trims.
+TATA MOTORS has tied up with M/s Autokrom, M/s 3M & M/s Wurth for this world class treatment at affordable prices.
+The Dealer Service Marketing Executive will explain to you the benefits and terms and conditions of this treatment.
+Vehicle Interior Enrichment Why protect your new car s fabric interior?
+Someone will soil your vehicle's fabric carpet or seats.
+The enemy  Drink Spills - Food Stains - Mud - Ultraviolet Rays Pets - Traffic Benefits  Vehicle Interior Enrichment   Removal of medium stains and dirt from all interior parts of the car i.e., carpet, upholstery and roof lining.
+Cleaning of windshield and all windows (inside and outside)   Dressing of all internal plastics (e.g.
+The treatment involves cleaning and dressing of all parts of the exposed interiors.
+TATA MOTORS has tied up with M/s Wurth and M/s Autokrom for this world class treatment at affordable prices.
+The Dealer Service Marketing Executive will explain to you the benefits and terms and conditions of this treatment.
+Customer s Signature Dealer s Signature CAR CARE AND VALUE ADDED SERVICES 445 I wish to avail / Do not wish to avail extended warrant policy.
+I / We have been explained the Terms and conditions, Coverage and Owner   s responsibility by the Dealer Service Marketing Executive.
+ADDITIONAL FAQ ENTRIES (AI UPDATED) We WARRANT each TATA NEXON vehicle and parts thereof manufactured by us to be free from defect in material and workmanship subject to the following terms and conditions  1.
+This warranty shall be for a period of 24 months from the date of sale of the car or a mileage of 75,000 Kms whichever occurs earlier.
+Our obligation under this warranty shall be limited to repairing or replacing, free of charge, such parts of the car which, in our opinion, are defective, on the car being brought to us or to our dealers within the period.
+The parts so repaired or replaced shall also be warranted for quality and workmanship but such warranty shall be co-terminus with this original warranty.
+Any part which is found to be defective and is replaced by us under the warranty shall be our property.
+As for such parts as Tyres, Batteries, Audio and / or Video equipment (if any), etc.
+not manufactured by us but supplied by other parties, this warranty shall not apply, but buyers of the car shall be entitled to, so far as permissible by law, all such rights as we may have against such parties under their warranties in respect of such parts.
+This warranty shall not apply if the car or any part thereof is repaired or altered otherwise than in accordance with 370 our standard repair procedure or by any person other than from our sales or service establishments, our authorized dealers, service centres or service points in any way so as, in WARRANTY - TERMS AND CONDITIONS our judgment which shall be final and binding, to affect its reliability, nor shall it apply if, in our opinion which shall be final and binding, the car is subjected to misuse, negligence, improper or inadequate maintenance or accident or loading in excess of such carrying capacity as certified by us, or such services as prescribed in our Owner's Manual are not carried out by the buyer through our sales or service establishments, our authorized dealers, service centres or service points.
+This warranty shall not apply to the replacement of normal wear parts, including without limitation, spark plugs, drive belts, hoses, wiper blades, fuses, clutch disc, brake shoes, brake pads, cables and all rubber parts (except oil seal and glass run).
+This warranty shall not cover any inherent normal deterioration of the car or any of its parts arising from the actual use of the car or any damage due to negligent or improper operation or storage of the car.
+This warranty shall not apply to normal maintenance services like oils & fluid changes, head lamps focusing, fastener retightening, wheel balancing and alignment, tyre rotation, adjustment of valve clearance, fuel timing, ignition timing and consumables like bulbs, fuel, air & oil filters and gas leaks in case of air conditioned cars.
+This warranty shall not apply to any damage or deterioration caused by environmental pollution or bird droppings.
+Slight irregularities not recognized as affecting the function WARRANTY - TERMS AND CONDITIONS or quality of the vehicle or parts, such as slight noise or vibration, defects appearing only under particular or irregular operations are items considered characteristics of the vehicle.
+This warranty shall be null and void if the car is subjected to abnormal use such as rallying, racing or participation in any other competitive sport.
+This warranty shall not apply to any repair or replacements as a result of accident or collision.
+This warranty is expressly in lieu of all warranties, whether by law or otherwise, expressed or implied, and all other obligations or liabilities on our part and we neither assume, nor authorize any person to assume on our behalf, any other liability arising from the sale of the car or any agreement in relation thereto.
+The buyer shall have no other rights except those set out above and have, in particular, no right to repudiate the sale, or any agreement or to claim any reduction in the purchase price of the car, or to demand any damages or compensation for losses, incidental or indirect, or inconvenience or consequential damages, loss of car, or loss of time, or otherwise, incurred or accrued.
+Any claim arising from this warranty shall be recognized only if it is notified in writing to us or to our authorized dealer without any delay soon after such defects as covered & ascertained under this warranty.
+This warranty is fully transferable to subsequent vehicle owner.
+We reserve our rights to make any change or modification in design of the car or its parts or to introduce any improvement therein or to incorporate in the car any additional part or ADDITIONAL FAQ ENTRIES (AI UPDATED) accessory at any time without incurring any obligation to incorporate the same in the cars previously sold.
+is committed to produce vehicles using environmentally sustainable technology.
+A number of features have been incorporated in TATA MOTORS passenger vehicles which have been designed to ensure environmental compatibility throughout the life cycle of the vehicle.
+We would like to inform you that your vehicle meets emission norms and this is being regularly validated at the manufacturing stages.
+As a user you too can protect the environment by operating your vehicle in a proactive manner.
+A lot depends on your driving style and the way you maintain your vehicle.
+We have given a few tips for your guidance.
+Do not carry any unnecessary weight in the vehicle as it overloads the engine.
+Avoid using devices requiring high power consumption during slow city traffic condition.
+Monitor the vehicle s fuel consumption regularly and if showing rising trend get the car immediately attended at the Company s Authorised Service Outlets.
+372   Switch off the engine during long stops at traffic jams or signals.
+If you need to keep the engine running, avoid unnecessary revving it up or stopping and starting.
+It is not necessary to rev up the engine before turning it off as it unnecessarily burns the fuel.
+ENVIRONMENT SAFETY   Shift to higher gears as soon as it is possible.
+Use each gear upto 2/3rd of its maximum engine speed.
+A chart indicating gear shifting speeds is given in this book.
+Maintenance   Ensure that recommended maintenance is carried out on the vehicle regularly at the Authorised Service Outlets.
+As soon as you see any leakages of oil or fuel in the vehicle we recommend to get it attended immediately.
+Use only recommended grades and specified quantity of lubricants.
+Get your vehicle checked for emission periodically by an authorised dealer.
+Ensure that fuel filter, oil filter and breather are checked periodically and replaced, if required, as recommended by TATA MOTORS.
+Do not pour used oils or coolants into the sewage drains, garden soil or open streams.
+Dispose the used filters and batteries in compliance with the current legislation.
+Do not allow unauthorized person to tamper with engine settings or to carry modifications on the vehicle.
+Never allow the vehicle to run out of fuel.
+Parts like brake liners, clutch discs should be vacuum cleaned.
+Do not use compressed air for cleaning these parts which may spread dust in the atmosphere.
+ENVIRONMENT SAFETY While carrying out servicing or repairs of your vehicle, you should pay keen attention to some of the important engine aggregates and wiring harness which greatly affect emission.
+Fuel injection equipment  s - pump, rail, injectors, nozzles and high pressure pipes.
+All filters such as air, oil and fuel filters (check periodically).
+If the  Service  lamp continuously glows, please take the vehicle to a TATA MOTORS authorized service outlet.
+This Owner s manual contains further information on driving ADDITIONAL FAQ ENTRIES (AI UPDATED) precautions and maintenance care leading to environment 373 Q  What are the drive modes in Nexon?
+A  Tata Nexon offers three drive modes   Eco, City, and Sport.
+These modes adjust the engine performance and throttle response to suit different driving conditions and enhance efficiency or performance as required.
+A  Yes, a home wall-mounted AC charger can be installed for convenient charging.
+It is recommended to use Tata Power or other authorized service partners for installation.
+A  Service appointments can be booked using the Tata Motors Service Connect App, official website, or by contacting an authorized Tata Motors service center.
+374 Q  Can I customize the infotainment home screen?
+A  Yes, the infotainment system allows customization of widgets and shortcuts on the home screen through the Settings   Display   Home Layout menu.
+A  Press the Rear Defogger switch located on the AC control panel.
+The indicator will illuminate and the system will automatically switch off after a few minutes of operation.
+Q  What should I do if my car breaks down?
+A  In the event of a breakdown, park the vehicle safely, turn on the hazard warning lights, and contact Tata Motors Roadside Assistance or the nearest authorized service center for help.
+A  The ABS (Anti-lock Braking System) warning lamp indicates a malfunction in the braking system.
+Drive carefully and have the battery charge level to drop below 10 percent for the vehicle inspected at a Tata Authorized Service Center prolonged periods.
+However, excessive vibration A  Mileage may vary based on driving habits, load, and road may be caused by engine mounts, air filter clogging, or conditions.
+The Tata Nexon delivers approximately 17 to 24 uneven idling.
+Have it inspected by a Tata Authorized Service km per liter for Petrol or Diesel variants, and 312 to 453 km Center.
+Q  My touchscreen isn t responding, what should I do?
+ADDITIONAL FAQ ENTRIES (AI UPDATED) Q  Does Nexon have a voice assistant?
+If the issue persists, visit A  Yes, Tata Nexon is equipped with a voice command feature a Tata Authorized Service Center for system inspection and that enables control of functions such as navigation, calls, repair.
+Q  How to connect phone to Android Auto or CarPlay?
+A  Connect your phone via USB cable or wirelessly if A  Charge the vehicle regularly after daily use.
+Avoid allowing supported, then select Android Auto or Apple CarPlay from the infotainment screen menu.
+375 Q  What to do if AC smells bad?
+A  Turn on fresh-air mode for a few minutes to ventilate the Q  Why is my Bluetooth not connecting?
+If the odor persists, replace the cabin air filter and A  Ensure Bluetooth is enabled on both the phone and the clean the AC ducts at a service center.
+Remove existing pairings if necessary and re-pair the device.
+A  The real-world driving range of the Tata Nexon EV varies Q  How to track Nexon in case of theft?
+between 280 and 320 kilometers, depending on driving style, A  The iRA or ZConnect app (depending on the variant) allows road conditions, and AC usage.
+you to track your vehicle s location, monitor driving behavior, and set geofencing alerts in case of theft.
+A  Tata Nexon provides a ground clearance of 209 millimeters, ensuring comfortable driving even on uneven terrains.
+376 ADDITIONAL FAQ ENTRIES (AI UPDATED) Q  What does the immobilizer light indicate?
+A  Do not try to start the vehicle when the Immobilizer indicator lamp on the instrument cluster is glowing.
+This indicates that the security system has detected an issue with the key or immobilizer.
+Use the spare key or contact an authorized Tata Motors Service Center for assistance.
+A  The infotainment system software can be updated through authorized Tata Motors Service Cent ers.
+In some variants, over-the-air (OTA) updates may also be available via the Tata Connect or iRA app.
+Ensure your vehicle is connected and follow on-screen prompts for updates if supported.
+A  Yes, the air conditioning can be used while the car is parked and the engine is running.
+However, it is advised to use it only when necessary to prevent battery drain (in petrol/diesel) or high power consumption (in EV variants).
+Always ensure adequate ventilation if parked in enclosed spaces.
